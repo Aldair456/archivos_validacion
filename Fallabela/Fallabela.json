@@ -1,0 +1,1555 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "cd3812e6-0e1a-4cc0-8d79-83c247c11843",
+    "data": [
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 95434,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Intereses por Disponibles",
+            "value": 101
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 19
+          },
+          {
+            "name": "Ingresos por Inversiones Negociables y a Vencimiento",
+            "value": 91
+          },
+          {
+            "name": "Intereses y Comisiones por Cartera de Créditos",
+            "value": 92278
+          },
+          {
+            "name": "Ingresos de Cuentas por Cobrar",
+            "value": 11
+          },
+          {
+            "name": "Otras Comisiones",
+            "value": 2166
+          },
+          {
+            "name": "Diferencia de Cambio de Operaciones varias",
+            "value": 446
+          },
+          {
+            "name": "Compra-Venta de Valores",
+            "value": 322
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 79524,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Intereses por Disponibles",
+            "value": 792
+          },
+          {
+            "name": "Intereses y Comisiones por Cartera de Créditos",
+            "value": 76226
+          },
+          {
+            "name": "Otras Comisiones",
+            "value": 2399
+          },
+          {
+            "name": "Diferencia de Cambio de Operaciones varias",
+            "value": 99
+          },
+          {
+            "name": "Compra-Venta de Valores",
+            "value": 8
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 95434,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Intereses por Disponibles",
+            "value": 101
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 19
+          },
+          {
+            "name": "Ingresos por Inversiones Negociables y a Vencimiento",
+            "value": 91
+          },
+          {
+            "name": "Intereses y Comisiones por Cartera de Créditos",
+            "value": 92278
+          },
+          {
+            "name": "Ingresos de Cuentas por Cobrar",
+            "value": 11
+          },
+          {
+            "name": "Otras Comisiones",
+            "value": 2166
+          },
+          {
+            "name": "Diferencia de Cambio de Operaciones varias",
+            "value": 446
+          },
+          {
+            "name": "Compra-Venta de Valores",
+            "value": 322
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 79524,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Intereses por Disponibles",
+            "value": 792
+          },
+          {
+            "name": "Intereses y Comisiones por Cartera de Créditos",
+            "value": 76226
+          },
+          {
+            "name": "Otras Comisiones",
+            "value": 2399
+          },
+          {
+            "name": "Diferencia de Cambio de Operaciones varias",
+            "value": 99
+          },
+          {
+            "name": "Compra-Venta de Valores",
+            "value": 8
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -16716,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Intereses y Comisiones por Obligaciones con el Público",
+            "value": 6260
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 94
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones del Sistema Financiero del País",
+            "value": 1553
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones con Instituciones Financieras del Exterior y Organismos Financieros Internacionales",
+            "value": 63
+          },
+          {
+            "name": "Intereses, Comisiones y Otros Cargos de Cuentas por Pagar",
+            "value": 8666
+          },
+          {
+            "name": "Compra-Venta de Valores y Pérdida por Participación Patrimonial",
+            "value": 36
+          },
+          {
+            "name": "Primas al Fondo de Seguro de Depósitos",
+            "value": 44
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -20710,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Intereses y Comisiones por Obligaciones con el Público",
+            "value": 5044
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 5
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones del Sistema Financiero del País",
+            "value": 2262
+          },
+          {
+            "name": "Intereses, Comisiones y Otros Cargos de Cuentas por Pagar",
+            "value": 13320
+          },
+          {
+            "name": "Compra-Venta de Valores y Pérdida por Participación Patrimonial",
+            "value": 59
+          },
+          {
+            "name": "Primas al Fondo de Seguro de Depósitos",
+            "value": 20
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -16716,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Intereses y Comisiones por Obligaciones con el Público",
+            "value": 6260
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 94
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones del Sistema Financiero del País",
+            "value": 1553
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones con Instituciones Financieras del Exterior y Organismos Financieros Internacionales",
+            "value": 63
+          },
+          {
+            "name": "Intereses, Comisiones y Otros Cargos de Cuentas por Pagar",
+            "value": 8666
+          },
+          {
+            "name": "Compra-Venta de Valores y Pérdida por Participación Patrimonial",
+            "value": 36
+          },
+          {
+            "name": "Primas al Fondo de Seguro de Depósitos",
+            "value": 44
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -20710,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Intereses y Comisiones por Obligaciones con el Público",
+            "value": 5044
+          },
+          {
+            "name": "Intereses y Comisiones por Fondos Interbancarios",
+            "value": 5
+          },
+          {
+            "name": "Intereses por Adeudos y Obligaciones del Sistema Financiero del País",
+            "value": 2262
+          },
+          {
+            "name": "Intereses, Comisiones y Otros Cargos de Cuentas por Pagar",
+            "value": 13320
+          },
+          {
+            "name": "Compra-Venta de Valores y Pérdida por Participación Patrimonial",
+            "value": 59
+          },
+          {
+            "name": "Primas al Fondo de Seguro de Depósitos",
+            "value": 20
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "COGS",
+        "value": -15616,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Créditos del Ejercicio",
+            "value": 15616
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "COGS",
+        "value": -10620,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Créditos del Ejercicio",
+            "value": 10620
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "COGS",
+        "value": -15616,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Créditos del Ejercicio",
+            "value": 15616
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "COGS",
+        "value": -10620,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Créditos del Ejercicio",
+            "value": 10620
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 4932,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 4932
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 3381,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 3381
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 4932,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 4932
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 3381,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 3381
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -717,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Gastos Diversos por Servicios Financieros",
+            "value": -717
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -713,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Gastos Diversos por Servicios Financieros",
+            "value": -713
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -717,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Gastos Diversos por Servicios Financieros",
+            "value": -717
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -713,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Gastos Diversos por Servicios Financieros",
+            "value": -713
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -32910,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 11737
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 20939
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 234
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -23660,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 8369
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 15023
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 268
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -32910,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 11737
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 20939
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 234
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -23660,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 8369
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 15023
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 268
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "OPERATING_EXPENSES",
+        "value": -2637,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 34
+          },
+          {
+            "name": "Provisiones para Contingencias y Otras",
+            "value": 108
+          },
+          {
+            "name": "Depreciación de Inmuebles, Mobiliario y Equipo",
+            "value": 1745
+          },
+          {
+            "name": "Amortización de Gastos",
+            "value": 750
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 6,
+        "display_name": "Gastos operativos"
+      },
+      {
+        "name": "OPERATING_EXPENSES",
+        "value": -1947,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 127
+          },
+          {
+            "name": "Depreciación de Inmuebles, Mobiliario y Equipo",
+            "value": 1399
+          },
+          {
+            "name": "Amortización de Gastos",
+            "value": 421
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 6,
+        "display_name": "Gastos operativos"
+      },
+      {
+        "name": "OPERATING_EXPENSES",
+        "value": -2637,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 34
+          },
+          {
+            "name": "Provisiones para Contingencias y Otras",
+            "value": 108
+          },
+          {
+            "name": "Depreciación de Inmuebles, Mobiliario y Equipo",
+            "value": 1745
+          },
+          {
+            "name": "Amortización de Gastos",
+            "value": 750
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 6,
+        "display_name": "Gastos operativos"
+      },
+      {
+        "name": "OPERATING_EXPENSES",
+        "value": -1947,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 127
+          },
+          {
+            "name": "Depreciación de Inmuebles, Mobiliario y Equipo",
+            "value": 1399
+          },
+          {
+            "name": "Amortización de Gastos",
+            "value": 421
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 6,
+        "display_name": "Gastos operativos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 6027,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Ingresos Netos por Recuperación de Créditos",
+            "value": 2889
+          },
+          {
+            "name": "Ingresos Extraordinarios",
+            "value": 1993
+          },
+          {
+            "name": "Ingresos de Ejercicios Anteriores",
+            "value": 1145
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 7129,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Ingresos Netos por Recuperación de Créditos",
+            "value": 2949
+          },
+          {
+            "name": "Ingresos Extraordinarios",
+            "value": 2668
+          },
+          {
+            "name": "Ingresos de Ejercicios Anteriores",
+            "value": 1512
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 6027,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Ingresos Netos por Recuperación de Créditos",
+            "value": 2889
+          },
+          {
+            "name": "Ingresos Extraordinarios",
+            "value": 1993
+          },
+          {
+            "name": "Ingresos de Ejercicios Anteriores",
+            "value": 1145
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 7129,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Ingresos Netos por Recuperación de Créditos",
+            "value": 2949
+          },
+          {
+            "name": "Ingresos Extraordinarios",
+            "value": 2668
+          },
+          {
+            "name": "Ingresos de Ejercicios Anteriores",
+            "value": 1512
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -1049,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Gastos Extraordinarios",
+            "value": 63
+          },
+          {
+            "name": "Gastos de Ejercicios Anteriores",
+            "value": 986
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -1873,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Gastos Extraordinarios",
+            "value": 235
+          },
+          {
+            "name": "Gastos de Ejercicios Anteriores",
+            "value": 1638
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -1049,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Gastos Extraordinarios",
+            "value": 63
+          },
+          {
+            "name": "Gastos de Ejercicios Anteriores",
+            "value": 986
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -1873,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Gastos Extraordinarios",
+            "value": 235
+          },
+          {
+            "name": "Gastos de Ejercicios Anteriores",
+            "value": 1638
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "TAXES",
+        "value": -12700,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Distribución Legal de la Renta Neta",
+            "value": -1922
+          },
+          {
+            "name": "Impuesto a la Renta",
+            "value": -10778
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": -10323,
+        "year": 2007,
+        "period": "2007Q1",
+        "details": [
+          {
+            "name": "Distribución Legal de la Renta Neta",
+            "value": -1541
+          },
+          {
+            "name": "Impuesto a la Renta",
+            "value": -8782
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": -12700,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Distribución Legal de la Renta Neta",
+            "value": -1922
+          },
+          {
+            "name": "Impuesto a la Renta",
+            "value": -10778
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": -10323,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Distribución Legal de la Renta Neta",
+            "value": -1541
+          },
+          {
+            "name": "Impuesto a la Renta",
+            "value": -8782
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/675e8f9b-fa62-4cdd-a308-b75854298239.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "9a5b89ab-79ea-4ebe-823e-b324158b8c91"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "d4b90c68-3f55-4fd3-9cd8-d441ddedd85f",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 47999,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 14508
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 22949
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 10133
+          },
+          {
+            "name": "Canje",
+            "value": 383
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 26
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 56509,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 15030
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 25287
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 16084
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 101
+          },
+          {
+            "name": "Rendimientos devengados del disponible",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 9886,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Inversiones Negociables Disponibles para la Venta en Valores representativos de Deuda",
+            "value": 9797
+          },
+          {
+            "name": "Rendimientos Devengados de Inversiones Negociables y a Vencimiento",
+            "value": 89
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 934215,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 914294
+          },
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 29392
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 36210
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 3277
+          },
+          {
+            "name": "Rendimientos Devengados de Créditos Vigentes",
+            "value": 17789
+          },
+          {
+            "name": "(-) Provisiones para Créditos",
+            "value": -66747
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 897119,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 878296
+          },
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 29894
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 32789
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 3784
+          },
+          {
+            "name": "Rendimientos Devengados de Créditos Vigentes",
+            "value": 15427
+          },
+          {
+            "name": "(-) Provisiones para Créditos",
+            "value": -63071
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 20230,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar",
+            "value": 20296
+          },
+          {
+            "name": "(-) Provisiones para Cuentas por Cobrar",
+            "value": -66
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 34700,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar por Venta de Bienes y Servicios y Fideicomiso",
+            "value": 2947
+          },
+          {
+            "name": "Otras Cuentas por Cobrar",
+            "value": 31922
+          },
+          {
+            "name": "(-) Provisiones para Cuentas por Cobrar",
+            "value": -169
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 2,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Bienes Recibidos en Pago y Adjudicados",
+            "value": 7
+          },
+          {
+            "name": "(-) Provisiones y Depreciaciones para Bienes Realizables, Recibidos en Pago, Adjudicados y Bienes fuera de uso",
+            "value": -5
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 2,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Bienes Recibidos en Pago y Adjudicados",
+            "value": 7
+          },
+          {
+            "name": "(-) Provisiones y Depreciaciones para Bienes Realizables, Recibidos en Pago, Adjudicados y Bienes fuera de uso",
+            "value": -5
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 7776,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Inversiones por Participación Patrimonial en Personas Jurídicas del País y del Exterior",
+            "value": 7725
+          },
+          {
+            "name": "Otras Inversiones Permanentes",
+            "value": 51
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 7438,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Inversiones por Participación Patrimonial en Personas Jurídicas del País y del Exterior",
+            "value": 7438
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 40426,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 40426
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 33032,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 33032
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 51499,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 51499
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 17753,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 17753
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 24048,
+        "year": 2008,
+        "period": "2008Q1",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 24048
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 73939,
+        "year": 2007,
+        "period": "2007Q4",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 73939
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/675e8f9b-fa62-4cdd-a308-b75854298239.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "9a5b89ab-79ea-4ebe-823e-b324158b8c91"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "2f900e23-791e-4061-a940-f740a506a1b9",
+    "data": [
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -13624,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 24048
+          },
+          {
+            "name": "Depreciación y amortización del periodo",
+            "value": 2501
+          },
+          {
+            "name": "Provisión para Cartera de Créditos",
+            "value": 15616
+          },
+          {
+            "name": "Otras Provisiones",
+            "value": 730
+          },
+          {
+            "name": "Pérdida (ganancia) en Venta de Inversiones",
+            "value": -304
+          },
+          {
+            "name": "(Aumento) disminución en Intereses, Comisiones y Otras Cuentas por Cobrar",
+            "value": 12214
+          },
+          {
+            "name": "(Aumento) disminución en Intereses, Comisiones y Otras Cuentas por Pagar",
+            "value": 314
+          },
+          {
+            "name": "Aumento (disminución) en Otros Pasivos",
+            "value": -63536
+          },
+          {
+            "name": "(Aumento) disminución en Otros Activos",
+            "value": -5207
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -5545,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Adquisición de Inmuebles, Mobiliario y Equipo",
+            "value": -5494
+          },
+          {
+            "name": "Adquisición de otros Activos no Financieros",
+            "value": -51
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 10666,
+        "year": 2008,
+        "period": "2008Q1A",
+        "details": [
+          {
+            "name": "Aumento (disminución) neto de Depósitos y Obligaciones",
+            "value": 55421
+          },
+          {
+            "name": "Aumento (disminución) neto de Préstamos Provenientes de Bancos y Corresponsales",
+            "value": 14407
+          },
+          {
+            "name": "Aumento (disminución) Neto de Otros Pasivos Financieros",
+            "value": -8619
+          },
+          {
+            "name": "Disminución (aumento) Neto en la Cartera de Créditos",
+            "value": -50543
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -18650,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 20188
+          },
+          {
+            "name": "Depreciación y amortización del periodo",
+            "value": 1818
+          },
+          {
+            "name": "Provisión para Cartera de Créditos",
+            "value": 10620
+          },
+          {
+            "name": "Otras Provisiones",
+            "value": 618
+          },
+          {
+            "name": "Pérdida (ganancia) en Venta de Inversiones",
+            "value": 51
+          },
+          {
+            "name": "(Aumento) disminución en Intereses, Comisiones y Otras Cuentas por Cobrar",
+            "value": 4677
+          },
+          {
+            "name": "(Aumento) disminución en Intereses, Comisiones y Otras Cuentas por Pagar",
+            "value": -3074
+          },
+          {
+            "name": "Aumento (disminución) en Otros Pasivos",
+            "value": -52688
+          },
+          {
+            "name": "(Aumento) disminución en Otros Activos",
+            "value": -860
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -935,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Adquisición de Inmuebles, Mobiliario y Equipo",
+            "value": -935
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 12569,
+        "year": 2007,
+        "period": "2007Q1A",
+        "details": [
+          {
+            "name": "Aumento (disminución) neto de Depósitos y Obligaciones",
+            "value": 26122
+          },
+          {
+            "name": "Aumento (disminución) neto de Préstamos Provenientes de Bancos y Corresponsales",
+            "value": -12936
+          },
+          {
+            "name": "Aumento (disminución) Neto de Otros Pasivos Financieros",
+            "value": -37863
+          },
+          {
+            "name": "Disminución (aumento) Neto en la Cartera de Créditos",
+            "value": 37246
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/675e8f9b-fa62-4cdd-a308-b75854298239.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "9a5b89ab-79ea-4ebe-823e-b324158b8c91"
+  }
+]

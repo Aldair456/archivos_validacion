@@ -1,0 +1,997 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "3bf72ba6-4113-43c2-86a3-35a233b94afb",
+    "message": "No había datos de tablas ni de años para 'pl'; se omitió el procesamiento.",
+    "object_key_json_output": "FinancialStatementJson/6cf2ccd4-8cf9-4856-86e4-edd0bc7a2357.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "45d29ea5-85e8-4379-9d6a-9ffafcc7fcb1"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "2054568c-0806-4edb-8cdc-c88e42bb9265",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 395069.43,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Efectivo Y Equivalentes de Efectivo",
+            "value": 395069.43
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 944509.03,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Efectivo Y Equivalentes de Efectivo",
+            "value": 944509.03
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 272312.84,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Efectivo Y Equivalentes de Efectivo",
+            "value": 272312.84
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 3771130.01,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Terceros",
+            "value": 3771130.01
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 2525564.29,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Terceros",
+            "value": 2525564.29
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 4817459.53,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Terceros",
+            "value": 4817459.53
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 1724569.29,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Relacionadas",
+            "value": 1724569.29
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 1451670.93,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Relacionadas",
+            "value": 1451670.93
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 1641349.39,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales - Relacionadas",
+            "value": 1641349.39
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 2426367.97,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar al Personal, Accionistas y Direct.",
+            "value": 307994.32
+          },
+          {
+            "name": "Cuentas por Cobrar Diversas - Terceros",
+            "value": 2117373.65
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 2676404.36,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar al Personal, Accionistas y Direct.",
+            "value": 273919.43
+          },
+          {
+            "name": "Cuentas por Cobrar Diversas - Terceros",
+            "value": 2402484.93
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 2316207.84,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar al Personal, Accionistas y Direct.",
+            "value": 234477.08
+          },
+          {
+            "name": "Cuentas por Cobrar Diversas - Terceros",
+            "value": 2081730.76
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 18816,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Diversas - Relacionadas",
+            "value": 18816
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 21044.8,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Diversas - Relacionadas",
+            "value": 21044.8
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 57214.23,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Diversas - Relacionadas",
+            "value": 57214.23
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 12327213.62,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Mercaderias",
+            "value": 2095.5
+          },
+          {
+            "name": "Productos Terminados",
+            "value": 3774798.95
+          },
+          {
+            "name": "Subproductos, Desechos y Desperdicios",
+            "value": 299797.23
+          },
+          {
+            "name": "Productos en Proceso",
+            "value": 4468083.83
+          },
+          {
+            "name": "Materias Primas, Auxiliares Y Suministros",
+            "value": 3782438.11
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 6991634.41,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Mercaderias",
+            "value": 1534.48
+          },
+          {
+            "name": "Productos Terminados",
+            "value": 1677918.1
+          },
+          {
+            "name": "Subproductos, Desechos y Desperdicios",
+            "value": 315508.84
+          },
+          {
+            "name": "Productos en Proceso",
+            "value": 1473260.71
+          },
+          {
+            "name": "Materias Primas, Auxiliares Y Suministros",
+            "value": 3523412.28
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 7000044.96,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Mercaderias",
+            "value": 36.47
+          },
+          {
+            "name": "Productos Terminados",
+            "value": 1814721.19
+          },
+          {
+            "name": "Subproductos, Desechos y Desperdicios",
+            "value": 313344.76
+          },
+          {
+            "name": "Productos en Proceso",
+            "value": 1301421.41
+          },
+          {
+            "name": "Materias Primas, Auxiliares Y Suministros",
+            "value": 3570521.13
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 100952.22,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Servicios y Otros Contratados por Anticipado",
+            "value": 100952.22
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 63454.79,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Servicios y Otros Contratados por Anticipado",
+            "value": 63454.79
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 144176.21,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Servicios y Otros Contratados por Anticipado",
+            "value": 144176.21
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 1584585.16,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Crédito I.G.V. e Impuesto a la Renta",
+            "value": 1584585.16
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 735672.94,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Crédito I.G.V. e Impuesto a la Renta",
+            "value": 735672.94
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 813757.99,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Crédito I.G.V. e Impuesto a la Renta",
+            "value": 813757.99
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_LT",
+        "value": 1886425,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Diversas - Terceros (No Corriente)",
+            "value": 1886425
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 3150904.59,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones en Relacionadas",
+            "value": 3150904.59
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 3150904.59,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inversiones en Relacionadas",
+            "value": 3150904.59
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 3150904.59,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Inversiones en Relacionadas",
+            "value": 3150904.59
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 33855882.45,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inmuebles, Maquinaria y Equipo",
+            "value": 33855882.45
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 31944694.7,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inmuebles, Maquinaria y Equipo",
+            "value": 31944694.7
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 24754807.66,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Inmuebles, Maquinaria y Equipo",
+            "value": 24754807.66
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_DEPRECIATION",
+        "value": -13128537.74,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "menos: Depreciacion Acumulada",
+            "value": -13128537.74
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_DEPRECIATION",
+        "value": -12165791.78,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "menos: Depreciacion Acumulada",
+            "value": -12165791.78
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_DEPRECIATION",
+        "value": -11462160.78,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "menos: Depreciacion Acumulada",
+            "value": -11462160.78
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 1192176.11,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones Intangibles",
+            "value": 1192176.11
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 1192176.11,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inversiones Intangibles",
+            "value": 1192176.11
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 1192176.11,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Inversiones Intangibles",
+            "value": 1192176.11
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_DEPRECIATION",
+        "value": -841254.55,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "menos: Amortizacion Acumulada",
+            "value": -841254.55
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_DEPRECIATION",
+        "value": -754647.85,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "menos: Amortizacion Acumulada",
+            "value": -754647.85
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_DEPRECIATION",
+        "value": -663056.81,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "menos: Amortizacion Acumulada",
+            "value": -663056.81
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 11565336.46,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Obligaciones Financieras",
+            "value": 11565336.46
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 5708549.53,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Obligaciones Financieras",
+            "value": 5708549.53
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 5921546.28,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Obligaciones Financieras",
+            "value": 5921546.28
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 4059830.52,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales Terceros",
+            "value": 4059830.52
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 1135153.19,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales Terceros",
+            "value": 1135153.19
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 1605086.36,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales Terceros",
+            "value": 1599412.02
+          },
+          {
+            "name": "Cuentas por Pagar Comerciales Relacionadas",
+            "value": 5674.34
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 1402229.39,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar",
+            "value": 1402229.39
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 937414.77,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar",
+            "value": 937414.77
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 1029616.79,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar",
+            "value": 1029616.79
+          }
+        ]
+      },
+      {
+        "name": "TAX_PAYABLES",
+        "value": 190171.31,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Tributos",
+            "value": 190171.31
+          }
+        ]
+      },
+      {
+        "name": "TAX_PAYABLES",
+        "value": 108580.93,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Tributos",
+            "value": 108580.93
+          }
+        ]
+      },
+      {
+        "name": "TAX_PAYABLES",
+        "value": 87131,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Tributos",
+            "value": 87131
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 7700057.41,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Obligaciones Financieras L.P.",
+            "value": 7700057.41
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 9159864.27,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Obligaciones Financieras L.P.",
+            "value": 9159864.27
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 5017536.29,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Obligaciones Financieras L.P.",
+            "value": 5017536.29
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_LIABILITY",
+        "value": 519940.82,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido",
+            "value": 519940.82
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_LIABILITY",
+        "value": 519940.82,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido",
+            "value": 519940.82
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_LIABILITY",
+        "value": 519940.82,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido",
+            "value": 519940.82
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES_LT",
+        "value": 1924019.37,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar Diversas Terceros",
+            "value": 1924019.37
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES_LT",
+        "value": 1423029.25,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar Diversas Terceros",
+            "value": 1423029.25
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES_LT",
+        "value": 1402827.59,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar Diversas Terceros",
+            "value": 1402827.59
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 8316777,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 8316777
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 8316777,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 8316777
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 5886777,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 5886777
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 467409.53,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 467409.53
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 205907.53,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 205907.53
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 7103983.33,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Excedente de Revaluacion",
+            "value": 7103983.33
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 7103983.33,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Excedente de Revaluacion",
+            "value": 7103983.33
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 7103983.33,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Excedente de Revaluacion",
+            "value": 7103983.33
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 3100838.23,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 3100838.23
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 2639621.87,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 2639621.87
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 2639818.27,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 2639818.27
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 2580115.72,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Resultado Neto del Periodo (Ejercicio)",
+            "value": 2580115.72
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 1256966.83,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Resultado Neto del Periodo (Ejercicio)",
+            "value": 1256966.83
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 2615022.5,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Resultado Neto del Periodo (Ejercicio)",
+            "value": 2615022.5
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/6cf2ccd4-8cf9-4856-86e4-edd0bc7a2357.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "45d29ea5-85e8-4379-9d6a-9ffafcc7fcb1"
+  },
+  {
+    "statusCode": 200,
+    "status": "error",
+    "request_id": "558fbeab-2b48-4e7e-9f70-168b18dc4263",
+    "error": "No se encontraron tablas para 'CF'; no se puede generar JSON.",
+    "object_key_json_output": "FinancialStatementJson/6cf2ccd4-8cf9-4856-86e4-edd0bc7a2357.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "45d29ea5-85e8-4379-9d6a-9ffafcc7fcb1"
+  }
+]

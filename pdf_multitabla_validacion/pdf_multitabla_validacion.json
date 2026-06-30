@@ -1,0 +1,177 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "5be2f6ab-bddd-4b64-8395-68c55bd471a0",
+    "message": "No había datos de tablas ni de años para 'pl'; se omitió el procesamiento.",
+    "object_key_json_output": "FinancialStatementJson/f0acacac-824d-4701-9fef-060e7464c6a0.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "8c5bd05b-c337-4cb8-8747-f72f45687e82"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "23f710c0-68ea-45be-96c0-20de99776773",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 4403,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Efectivo y equivalentes de efectivo",
+            "value": 4403
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 47585,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Ctas. por cobrar comerciales ter.",
+            "value": 47585
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 13425,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Ctas. por cobrar diversas terceros",
+            "value": 13425
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 13765,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Propiedades, planta y equipo",
+            "value": 13765
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_DEPRECIATION",
+        "value": -3163,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Depreciacion de 1,2 y PPE acumulados",
+            "value": -3163
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 892,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Otros activos no corrientes",
+            "value": 892
+          }
+        ]
+      },
+      {
+        "name": "TAX_PAYABLES",
+        "value": 24699,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Trib. y aport. sist. pens. y salud por pagar",
+            "value": 24699
+          }
+        ]
+      },
+      {
+        "name": "SALARIES_PAYABLES",
+        "value": 23175,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Remuneraciones y particip. por pagar",
+            "value": 23175
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 22837,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Ctas. por pagar comerciales terceros",
+            "value": 22837
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 2000,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 2000
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 41582,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Resultados acumulados positivos",
+            "value": 41582
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": -37386,
+        "year": 2023,
+        "period": "2023",
+        "details": [
+          {
+            "name": "Pérdida del ejercicio",
+            "value": -37386
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/f0acacac-824d-4701-9fef-060e7464c6a0.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "8c5bd05b-c337-4cb8-8747-f72f45687e82"
+  },
+  {
+    "statusCode": 200,
+    "status": "error",
+    "request_id": "ac6bbcc5-4f71-4b07-83cd-ff67620060d9",
+    "error": "No se encontraron tablas para 'CF'; no se puede generar JSON.",
+    "object_key_json_output": "FinancialStatementJson/f0acacac-824d-4701-9fef-060e7464c6a0.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "8c5bd05b-c337-4cb8-8747-f72f45687e82"
+  }
+]

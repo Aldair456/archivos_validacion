@@ -1,0 +1,1277 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "40e831e8-3b7a-44b7-8539-b803ca1813b0",
+    "data": [
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 518314,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Disponible",
+            "value": 739
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 929
+          },
+          {
+            "name": "Inversiones disponibles para la venta",
+            "value": 6802
+          },
+          {
+            "name": "Cartera de créditos directos",
+            "value": 509844
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 437385,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Disponible",
+            "value": 1507
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 2799
+          },
+          {
+            "name": "Inversiones disponibles para la venta",
+            "value": 6942
+          },
+          {
+            "name": "Cartera de créditos directos",
+            "value": 426137
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -110451,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Obligaciones con el público",
+            "value": 50288
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 24
+          },
+          {
+            "name": "Depósitos de empresas del sistema financiero y organismos financieros internacionales",
+            "value": 1554
+          },
+          {
+            "name": "Adeudos y obligaciones financieras",
+            "value": 12726
+          },
+          {
+            "name": "Adeudos y obligaciones del sistema financiero del país",
+            "value": 3517
+          },
+          {
+            "name": "Comisiones y otros cargos por adeudos y obligaciones financieras",
+            "value": 133
+          },
+          {
+            "name": "Valores, Títulos y Obligaciones en Circulación",
+            "value": 9076
+          },
+          {
+            "name": "Intereses de cuentas por pagar",
+            "value": 45840
+          },
+          {
+            "name": "Otros Gastos Financieros",
+            "value": 19
+          },
+          {
+            "name": "Provisiones para créditos directos",
+            "value": 101022
+          },
+          {
+            "name": "Gastos por Servicios Financieros - Prima al fondo de seguro de deposito",
+            "value": 2148
+          },
+          {
+            "name": "Gastos por Servicios Financieros - Gastos Diversos",
+            "value": 2286
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -184583,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Obligaciones con el público",
+            "value": 37619
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 1
+          },
+          {
+            "name": "Depósitos de empresas del sistema financiero y organismos financieros internacionales",
+            "value": 5576
+          },
+          {
+            "name": "Adeudos y obligaciones financieras",
+            "value": 8688
+          },
+          {
+            "name": "Adeudos y obligaciones del sistema financiero del país",
+            "value": 3904
+          },
+          {
+            "name": "Comisiones y otros cargos por adeudos y obligaciones financieras",
+            "value": 136
+          },
+          {
+            "name": "Valores, Títulos y Obligaciones en Circulación",
+            "value": 4648
+          },
+          {
+            "name": "Intereses de cuentas por pagar",
+            "value": 32575
+          },
+          {
+            "name": "Provisiones para créditos directos",
+            "value": 95217
+          },
+          {
+            "name": "Gastos por Servicios Financieros - Prima al fondo de seguro de deposito",
+            "value": 1685
+          },
+          {
+            "name": "Gastos por Servicios Financieros - Gastos Diversos",
+            "value": 2222
+          },
+          {
+            "name": "Otros Gastos Financieros",
+            "value": 312
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 17190,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 17190
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 18170,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Ingresos Diversos",
+            "value": 18170
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 1324,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Utilidad en diferencia de cambio",
+            "value": 1324
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 1279,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Utilidad en diferencia de cambio",
+            "value": 1279
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 4996,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Inversiones disponibles para la venta - ROF",
+            "value": 116
+          },
+          {
+            "name": "Otros - ROF",
+            "value": 4880
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": 6228,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Inversiones disponibles para la venta - ROF",
+            "value": 784
+          },
+          {
+            "name": "Otros - ROF",
+            "value": 5444
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -279858,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 129543
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 130746
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 3250
+          },
+          {
+            "name": "Depreciaciones y Amortizaciones",
+            "value": 16319
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -250158,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 107619
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 108257
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 18311
+          },
+          {
+            "name": "Depreciaciones y Amortizaciones",
+            "value": 15971
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -2625,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": -1049
+          },
+          {
+            "name": "Provisiones para litigios y demandas",
+            "value": -1576
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -4166,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": -531
+          },
+          {
+            "name": "Provisiones para litigios y demandas",
+            "value": -3635
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -56779,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Otros Ingresos y Gastos",
+            "value": 56779
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -50229,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Otros Ingresos y Gastos",
+            "value": 50229
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "TAXES",
+        "value": -30211,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Impuesto a la Renta",
+            "value": -30211
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": -25348,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Impuesto a la Renta",
+            "value": -25348
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/4a995f42-3c1f-4d9d-a53a-51333b371f65.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "a4578a06-bc62-4d26-9fdc-82b40e0ddf6d"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "66191c3c-5fb5-41b8-a356-350ebece3c4d",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 130908,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 16462
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 81700
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 31292
+          },
+          {
+            "name": "Bancos y otras instituciones financieras del exterior",
+            "value": 1379
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 75
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 125904,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 20008
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 75415
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 28186
+          },
+          {
+            "name": "Bancos y otras instituciones financieras del exterior",
+            "value": 2222
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 73
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 30004,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Fondos Interbancarios (Activo)",
+            "value": 30004
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 40006,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Fondos Interbancarios (Activo)",
+            "value": 40006
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENT_PROPERTY",
+        "value": 175207,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Inversiones Disponibles para la Venta - Instrumentos representativos de Deuda",
+            "value": 175207
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENT_PROPERTY",
+        "value": 158221,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Inversiones Disponibles para la Venta - Instrumentos representativos de Deuda",
+            "value": 158221
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 1567811,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 1524399
+          },
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 4524
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 32910
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 5378
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 1201559,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 1146259
+          },
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 11722
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 32449
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 11129
+          }
+        ]
+      },
+      {
+        "name": "BAD_DEBT_PROVISIONS",
+        "value": -95380,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Provisiones para Créditos",
+            "value": -95380
+          }
+        ]
+      },
+      {
+        "name": "BAD_DEBT_PROVISIONS",
+        "value": -97498,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Provisiones para Créditos",
+            "value": -97498
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 15496,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar por Venta de Bienes y Servicios y Fideicomiso (neto)",
+            "value": 11127
+          },
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 4369
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 20984,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar por Venta de Bienes y Servicios y Fideicomiso (neto)",
+            "value": 15527
+          },
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 5457
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 75,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Asociadas y participaciones en negocios conjuntos",
+            "value": 75
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 59,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Asociadas y participaciones en negocios conjuntos",
+            "value": 59
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 16830,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Inmuebles, Mobiliario y Equipo (Neto)",
+            "value": 16830
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 13764,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Inmuebles, Mobiliario y Equipo (Neto)",
+            "value": 13764
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 76790,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Activo Intangible Distinto de la Plusvalía",
+            "value": 76790
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 78851,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Activo Intangible Distinto de la Plusvalía",
+            "value": 78851
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 638,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Impuestos Corrientes (Activo)",
+            "value": 638
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 17516,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Otros Activos",
+            "value": 17516
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 8880,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Otros Activos",
+            "value": 8880
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 1461943,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Obligaciones a la Vista",
+            "value": 7559
+          },
+          {
+            "name": "Obligaciones por Cuentas de Ahorro",
+            "value": 4726
+          },
+          {
+            "name": "Obligaciones por Cuentas a Plazo",
+            "value": 1103431
+          },
+          {
+            "name": "Otras Obligaciones",
+            "value": 2379
+          },
+          {
+            "name": "Depósitos a Plazo - Empresas del Sistema Financiero",
+            "value": 35634
+          },
+          {
+            "name": "Adeudos y Obligaciones con Empresas e instituciones financieras del país",
+            "value": 103353
+          },
+          {
+            "name": "Valores y Títulos",
+            "value": 204961
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 1115103,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Obligaciones a la Vista",
+            "value": 8089
+          },
+          {
+            "name": "Obligaciones por Cuentas de Ahorro",
+            "value": 42623
+          },
+          {
+            "name": "Obligaciones por Cuentas a Plazo",
+            "value": 800357
+          },
+          {
+            "name": "Otras Obligaciones",
+            "value": 2429
+          },
+          {
+            "name": "Fondos Interbancarios (Pasivo)",
+            "value": 10001
+          },
+          {
+            "name": "Depósitos a Plazo - Empresas del Sistema Financiero",
+            "value": 18889
+          },
+          {
+            "name": "Adeudos y Obligaciones con Empresas e instituciones financieras del país",
+            "value": 21058
+          },
+          {
+            "name": "Valores y Títulos",
+            "value": 223128
+          },
+          {
+            "name": "Impuesto a la Renta Diferido (Pasivo)",
+            "value": 6460
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 70617,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Cuentas por Pagar",
+            "value": 70617
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 52858,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Cuentas por Pagar",
+            "value": 52858
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 2763,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Provisión para litigio y demandas",
+            "value": 2763
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 3182,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Provisión para litigio y demandas",
+            "value": 3182
+          }
+        ]
+      },
+      {
+        "name": "TAX_PAYABLES",
+        "value": 10569,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Impuestos Corrientes (Pasivo)",
+            "value": 10569
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_LIABILITY",
+        "value": 1242,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido (Pasivo)",
+            "value": 1242
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_LIABILITIES",
+        "value": 17479,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Otros Pasivos",
+            "value": 17479
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_LIABILITIES",
+        "value": 9466,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Otros Pasivos",
+            "value": 9466
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 179848,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Capital social",
+            "value": 179848
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 179848,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Capital social",
+            "value": 179848
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 63137,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 63137
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 63137,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Reservas",
+            "value": 63137
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 59831,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 59831
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": 59795,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": 59795
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 70002,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 70002
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 50036,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 50036
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": -2874,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": -2874
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 12,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": 12
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/4a995f42-3c1f-4d9d-a53a-51333b371f65.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "a4578a06-bc62-4d26-9fdc-82b40e0ddf6d"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "30c96ff8-7675-48f6-89b4-732698b128a2",
+    "data": [
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": 63086,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 70002
+          },
+          {
+            "name": "Depreciación y amortización",
+            "value": 16319
+          },
+          {
+            "name": "Provisiones",
+            "value": 101022
+          },
+          {
+            "name": "Otros ajustes",
+            "value": 33072
+          },
+          {
+            "name": "Créditos",
+            "value": -468792
+          },
+          {
+            "name": "Disponibles para la venta",
+            "value": -19872
+          },
+          {
+            "name": "Cuentas por cobrar y otras",
+            "value": -3575
+          },
+          {
+            "name": "Pasivos financieros, no subordinados",
+            "value": 335469
+          },
+          {
+            "name": "Cuentas por pagar y otras",
+            "value": -11128
+          },
+          {
+            "name": "Impuesto a las ganancias (pagados) cobrados",
+            "value": 10569
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -18084,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Entrada por venta de intangibles e inmuebles, mobiliario y equipos",
+            "value": -18084
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": -50000,
+        "year": 2015,
+        "period": "2015",
+        "details": [
+          {
+            "name": "Dividendos pagados",
+            "value": -50000
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -85463,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 50036
+          },
+          {
+            "name": "Depreciación y amortización",
+            "value": 15971
+          },
+          {
+            "name": "Provisiones",
+            "value": 128886
+          },
+          {
+            "name": "Otros ajustes",
+            "value": 27118
+          },
+          {
+            "name": "Créditos",
+            "value": -305624
+          },
+          {
+            "name": "Disponibles para la venta",
+            "value": -22686
+          },
+          {
+            "name": "Cuentas por cobrar y otras",
+            "value": -10367
+          },
+          {
+            "name": "Pasivos financieros, no subordinados",
+            "value": 63936
+          },
+          {
+            "name": "Cuentas por pagar y otras",
+            "value": -32095
+          },
+          {
+            "name": "Impuesto a las ganancias (pagados) cobrados",
+            "value": -638
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -11936,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Entrada por venta de intangibles e inmuebles, mobiliario y equipos",
+            "value": -11936
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": -5000,
+        "year": 2014,
+        "period": "2014",
+        "details": [
+          {
+            "name": "Entrada por emisión de instrumentos de patrimonio",
+            "value": 25000
+          },
+          {
+            "name": "Dividendos pagados",
+            "value": -30000
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/4a995f42-3c1f-4d9d-a53a-51333b371f65.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "a4578a06-bc62-4d26-9fdc-82b40e0ddf6d"
+  }
+]

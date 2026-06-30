@@ -1,0 +1,1285 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "894d4a66-4ec4-4c85-add6-ef8bbb8fdcd5",
+    "data": [
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 296883,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Disponible",
+            "value": 5605
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 3185
+          },
+          {
+            "name": "Inversiones disponibles para la venta",
+            "value": 2611
+          },
+          {
+            "name": "Cartera de créditos directos",
+            "value": 285482
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 277515,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Disponible",
+            "value": 11614
+          },
+          {
+            "name": "Fondos interbancarios",
+            "value": 1942
+          },
+          {
+            "name": "Inversiones disponibles para la venta",
+            "value": 4239
+          },
+          {
+            "name": "Cartera de créditos directos",
+            "value": 259720
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -58541,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Obligaciones con el público",
+            "value": 47989
+          },
+          {
+            "name": "Depósitos de empresas del sistema financiero y organismos financieros internacionales",
+            "value": 278
+          },
+          {
+            "name": "Adeudos y obligaciones financieras",
+            "value": 10274
+          },
+          {
+            "name": "Otros Adeudos y Obligaciones del País y del Exterior",
+            "value": 3608
+          },
+          {
+            "name": "Valores, Títulos y Obligaciones en Circulación",
+            "value": 6666
+          },
+          {
+            "name": "Provisiones para créditos directos",
+            "value": 91135
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -72010,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Obligaciones con el público",
+            "value": 63398
+          },
+          {
+            "name": "Depósitos de empresas del sistema financiero y organismos financieros internacionales",
+            "value": 96
+          },
+          {
+            "name": "Adeudos y obligaciones financieras",
+            "value": 8516
+          },
+          {
+            "name": "Otros Adeudos y Obligaciones del País y del Exterior",
+            "value": 3976
+          },
+          {
+            "name": "Valores, Títulos y Obligaciones en Circulación",
+            "value": 4540
+          },
+          {
+            "name": "Provisiones para créditos directos",
+            "value": 107819
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 47850,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Ingresos por créditos indirectos",
+            "value": 416
+          },
+          {
+            "name": "Ingresos Diversos",
+            "value": 47434
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 45709,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Ingresos por créditos indirectos",
+            "value": 366
+          },
+          {
+            "name": "Ingresos Diversos",
+            "value": 45343
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -28270,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Prima al fondo de seguro de depósito",
+            "value": -4525
+          },
+          {
+            "name": "Gastos Diversos",
+            "value": -23745
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -10036,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Prima al fondo de seguro de depósito",
+            "value": -4782
+          },
+          {
+            "name": "Gastos Diversos",
+            "value": -5254
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 5104,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones disponibles para la venta",
+            "value": 10
+          },
+          {
+            "name": "Ganancias (pérdidas) en participaciones",
+            "value": 3
+          },
+          {
+            "name": "Utilidad - pérdida en diferencia de cambio",
+            "value": 854
+          },
+          {
+            "name": "Otros (ROF)",
+            "value": 4237
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 11228,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Ganancias (pérdidas) en participaciones",
+            "value": 2
+          },
+          {
+            "name": "Utilidad - pérdida en diferencia de cambio",
+            "value": 611
+          },
+          {
+            "name": "Otros (ROF)",
+            "value": 10615
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -133602,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 78464
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 49159
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 990
+          },
+          {
+            "name": "Depreciaciones y Amortizaciones",
+            "value": 4989
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -118673,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Gastos de Personal y Directorio",
+            "value": 66043
+          },
+          {
+            "name": "Gastos por Servicios Recibidos de Terceros",
+            "value": 47395
+          },
+          {
+            "name": "Impuestos y Contribuciones",
+            "value": 722
+          },
+          {
+            "name": "Depreciaciones y Amortizaciones",
+            "value": 4513
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -4630,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Provisiones para créditos indirectos",
+            "value": 137
+          },
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 146
+          },
+          {
+            "name": "Provisiones para litigios y demandas",
+            "value": 4347
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_EXPENSES",
+        "value": -9973,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Provisiones para créditos indirectos",
+            "value": 54
+          },
+          {
+            "name": "Provisiones para Incobrabilidad de Cuentas por Cobrar",
+            "value": 1073
+          },
+          {
+            "name": "Provisiones para litigios y demandas",
+            "value": 8846
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros gastos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": -2400,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otros Ingresos y Gastos",
+            "value": -2400
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "OTHER_INCOME",
+        "value": -11895,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otros Ingresos y Gastos",
+            "value": -11895
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 7,
+        "display_name": "Otros ingresos"
+      },
+      {
+        "name": "TAXES",
+        "value": -23259,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Impuesto a la Renta",
+            "value": -23259
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": -2769,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Impuesto a la Renta",
+            "value": -2769
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/2f754620-cfc2-4a42-a88a-cf73ac16decb.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2d4398b1-9fbf-4a1b-8719-d63d3befd5c0"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "78bbea57-71ac-4991-8fc8-ce3bb549d758",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 266473,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 36065
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 206217
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 4550
+          },
+          {
+            "name": "Bancos y otras instituciones financieras del exterior",
+            "value": 2995
+          },
+          {
+            "name": "Canje",
+            "value": 1234
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 15412
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 242045,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Caja",
+            "value": 35427
+          },
+          {
+            "name": "Banco Central de Reserva del Perú",
+            "value": 197342
+          },
+          {
+            "name": "Bancos y otras empresas del sistema financiero del país",
+            "value": 3291
+          },
+          {
+            "name": "Bancos y otras instituciones financieras del exterior",
+            "value": 1771
+          },
+          {
+            "name": "Otras disponibilidades",
+            "value": 4214
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 39924,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Instrumentos representativos de Capital",
+            "value": 51
+          },
+          {
+            "name": "Instrumentos representativos de Deuda",
+            "value": 39873
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 198475,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Instrumentos representativos de Capital",
+            "value": 90
+          },
+          {
+            "name": "Instrumentos representativos de Deuda",
+            "value": 198385
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 952789,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 952789
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 698767,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cartera de Créditos Vigentes",
+            "value": 698767
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 40744,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 8823
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 26814
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 5107
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 42438,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cartera de Créditos Refinanciados",
+            "value": 10553
+          },
+          {
+            "name": "Cartera de Créditos Vencidos",
+            "value": 29777
+          },
+          {
+            "name": "Cartera de Créditos en Cobranza Judicial",
+            "value": 2108
+          }
+        ]
+      },
+      {
+        "name": "BAD_DEBT_PROVISIONS",
+        "value": -55603,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Provisiones para Créditos",
+            "value": -55603
+          }
+        ]
+      },
+      {
+        "name": "BAD_DEBT_PROVISIONS",
+        "value": -51244,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Provisiones para Créditos",
+            "value": -51244
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 21778,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar por Venta de Bienes y Servicios y Fideicomiso (neto)",
+            "value": 8314
+          },
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 13464
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 22890,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar por Venta de Bienes y Servicios y Fideicomiso (neto)",
+            "value": 14755
+          },
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 8135
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 44594,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inmuebles, Mobiliario y Equipo (Neto)",
+            "value": 44594
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 38233,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inmuebles, Mobiliario y Equipo (Neto)",
+            "value": 38233
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 3085,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Activo Intangible Distinto de la Plusvalía",
+            "value": 3085
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 4098,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Activo Intangible Distinto de la Plusvalía",
+            "value": 4098
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 7718,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Impuestos Corrientes",
+            "value": 7718
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 5998,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Impuestos Corrientes",
+            "value": 5998
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 33459,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido",
+            "value": 33459
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 69346,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Diferido",
+            "value": 69346
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 10581,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otros Activos",
+            "value": 10581
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 11720,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otros Activos",
+            "value": 11720
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 1088864,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Obligaciones a la Vista",
+            "value": 65589
+          },
+          {
+            "name": "Obligaciones por Cuentas de Ahorro",
+            "value": 317481
+          },
+          {
+            "name": "Obligaciones por Cuentas a Plazo",
+            "value": 697362
+          },
+          {
+            "name": "Otras Obligaciones",
+            "value": 8432
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 1044627,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Obligaciones a la Vista",
+            "value": 81179
+          },
+          {
+            "name": "Obligaciones por Cuentas de Ahorro",
+            "value": 143011
+          },
+          {
+            "name": "Obligaciones por Cuentas a Plazo",
+            "value": 807014
+          },
+          {
+            "name": "Otras Obligaciones",
+            "value": 13423
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 100074,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Depósitos a Plazo - Empresas del Sistema Financiero",
+            "value": 5253
+          },
+          {
+            "name": "Otros Adeudos y Obligaciones del país y del exterior",
+            "value": 21340
+          },
+          {
+            "name": "Valores y Títulos",
+            "value": 73481
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 87063,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Depósitos a Plazo - Empresas del Sistema Financiero",
+            "value": 8296
+          },
+          {
+            "name": "Otros Adeudos y Obligaciones del país y del exterior",
+            "value": 34161
+          },
+          {
+            "name": "Valores y Títulos",
+            "value": 44606
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 29168,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por Pagar",
+            "value": 29168
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 22899,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por Pagar",
+            "value": 22899
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 5415,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Provisión para Créditos Contingentes",
+            "value": 134
+          },
+          {
+            "name": "Provisión para litigio y demandas",
+            "value": 5281
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 6174,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Provisión para Créditos Contingentes",
+            "value": 125
+          },
+          {
+            "name": "Provisión para litigio y demandas",
+            "value": 6049
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_LIABILITIES",
+        "value": 6014,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otros Pasivos",
+            "value": 6014
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_LIABILITIES",
+        "value": 6358,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otros Pasivos",
+            "value": 6358
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 2146827,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Capital social",
+            "value": 2146827
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 272178,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Capital social",
+            "value": 272178
+          }
+        ]
+      },
+      {
+        "name": "ADDITIONAL_CAPITAL",
+        "value": -1892679,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Capital adicional",
+            "value": -1892679
+          }
+        ]
+      },
+      {
+        "name": "ADDITIONAL_CAPITAL",
+        "value": -43030,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Capital adicional",
+            "value": -43030
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -126131,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -126131
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -114779,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -114779
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 8000,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 8000
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": 1277,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 1277
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": -10,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": -10
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": -1,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": -1
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/2f754620-cfc2-4a42-a88a-cf73ac16decb.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2d4398b1-9fbf-4a1b-8719-d63d3befd5c0"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "1163c1bf-350d-4d3d-8308-6b6f006f10cb",
+    "data": [
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -163111,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 8000
+          },
+          {
+            "name": "Depreciación y amortización",
+            "value": 4989
+          },
+          {
+            "name": "Provisiones",
+            "value": 95202
+          },
+          {
+            "name": "Otros ajustes",
+            "value": 35235
+          },
+          {
+            "name": "Créditos",
+            "value": -343171
+          },
+          {
+            "name": "Cuentas por cobrar y otras",
+            "value": 1468
+          },
+          {
+            "name": "Cuentas por pagar y otras",
+            "value": 35166
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": 122054,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Resultado Neto del Ejercicio",
+            "value": 1277
+          },
+          {
+            "name": "Depreciación y amortización",
+            "value": 4513
+          },
+          {
+            "name": "Provisiones",
+            "value": 108452
+          },
+          {
+            "name": "Otros ajustes",
+            "value": 18519
+          },
+          {
+            "name": "Créditos",
+            "value": -121250
+          },
+          {
+            "name": "Cuentas por cobrar y otras",
+            "value": 12392
+          },
+          {
+            "name": "Cuentas por pagar y otras",
+            "value": 98151
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": 147303,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Entrada por venta de intangibles e inmuebles, mobiliario y equipos",
+            "value": -10337
+          },
+          {
+            "name": "Salida por compras de intangibles e inmuebles, mobiliario y equipos",
+            "value": 35
+          },
+          {
+            "name": "Otras entradas relacionadas a actividades de inversión",
+            "value": -108886
+          },
+          {
+            "name": "Otras salidas relacionadas a actividades de inversión",
+            "value": 266491
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -99255,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Entrada por venta de intangibles e inmuebles, mobiliario y equipos",
+            "value": -19509
+          },
+          {
+            "name": "Salida por compras de intangibles e inmuebles, mobiliario y equipos",
+            "value": 149
+          },
+          {
+            "name": "Otras entradas relacionadas a actividades de inversión",
+            "value": -198385
+          },
+          {
+            "name": "Otras salidas relacionadas a actividades de inversión",
+            "value": 118490
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 40236,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Entrada por la emisión de pasivos financieros subordinados",
+            "value": 28500
+          },
+          {
+            "name": "Entrada por emisión de instrumentos de patrimonio",
+            "value": 25000
+          },
+          {
+            "name": "Otras entradas relacionadas a las actividades de financiamiento",
+            "value": -13264
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 34775,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Entrada por la emisión de pasivos financieros subordinados",
+            "value": 29140
+          },
+          {
+            "name": "Entrada por emisión de instrumentos de patrimonio",
+            "value": 5000
+          },
+          {
+            "name": "Otras entradas relacionadas a las actividades de financiamiento",
+            "value": 635
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/2f754620-cfc2-4a42-a88a-cf73ac16decb.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2d4398b1-9fbf-4a1b-8719-d63d3befd5c0"
+  }
+]

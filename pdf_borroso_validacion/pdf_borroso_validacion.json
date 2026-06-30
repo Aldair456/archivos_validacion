@@ -1,0 +1,405 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "61448052-37d7-4079-ba7e-8baada03383d",
+    "message": "No había datos de tablas ni de años para 'pl'; se omitió el procesamiento.",
+    "object_key_json_output": "FinancialStatementJson/e72e590e-8504-4cb1-b856-79d9e1bdd637.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "bd38e233-f178-40fa-88cb-756c1ad07de4"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "11de5c66-f56a-4782-8d43-cf3d1e675bd8",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 53070836,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Efectivo y equivalentes de efectivo",
+            "value": 53070836
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 29855989,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Efectivo y equivalentes de efectivo",
+            "value": 29855989
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 12181810,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones al costo amortizado (corriente)",
+            "value": 12181810
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 18613886,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inversiones al costo amortizado (corriente)",
+            "value": 18613886
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 11919148,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por cobrar comerciales",
+            "value": 11919148
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 11131926,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por cobrar comerciales",
+            "value": 11131926
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 213765290,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuentas por cobrar compañías relacionadas (corriente)",
+            "value": 213765290
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 184195299,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuentas por cobrar compañías relacionadas (corriente)",
+            "value": 184195299
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 57763385,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Impuestos por recuperar",
+            "value": 57763385
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 29639328,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Impuestos por recuperar",
+            "value": 29639328
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 1841232,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otras cuentas por cobrar (corriente)",
+            "value": 1841232
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 1907176,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otras cuentas por cobrar (corriente)",
+            "value": 1907176
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 196596648,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inventarios",
+            "value": 196596648
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 198150291,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inventarios",
+            "value": 198150291
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 9814365,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otros activos (corriente)",
+            "value": 9814365
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 12281289,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otros activos (corriente)",
+            "value": 12281289
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_LT",
+        "value": 148112,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones al costo amortizado (no corriente)",
+            "value": 148112
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES_NON_CURRENT",
+        "value": 221808920,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Cuenta por cobrar a compañías relacionadas (no corriente)",
+            "value": 221808920
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES_NON_CURRENT",
+        "value": 230898288,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Cuenta por cobrar a compañías relacionadas (no corriente)",
+            "value": 230898288
+          }
+        ]
+      },
+      {
+        "name": "OTHER_ACCOUNTS_RECEIVABLE_LT",
+        "value": 572742,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otras cuentas por cobrar (no corriente)",
+            "value": 572742
+          }
+        ]
+      },
+      {
+        "name": "OTHER_ACCOUNTS_RECEIVABLE_LT",
+        "value": 747661,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otras cuentas por cobrar (no corriente)",
+            "value": 747661
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 148976974,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Propiedades y equipos",
+            "value": 148976974
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 130825461,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Propiedades y equipos",
+            "value": 130825461
+          }
+        ]
+      },
+      {
+        "name": "RIGHT_OF_USE_ASSET",
+        "value": 101144596,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Activos por derecho de uso",
+            "value": 101144596
+          }
+        ]
+      },
+      {
+        "name": "RIGHT_OF_USE_ASSET",
+        "value": 44541222,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Activos por derecho de uso",
+            "value": 44541222
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 104885380,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Activos intangibles",
+            "value": 104885380
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 110887211,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Activos intangibles",
+            "value": 110887211
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 16879,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Inversiones en subsidiarias y asociadas",
+            "value": 16879
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 16879,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Inversiones en subsidiarias y asociadas",
+            "value": 16879
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 8444326,
+        "year": 2025,
+        "period": "2025",
+        "details": [
+          {
+            "name": "Otros activos (no corriente)",
+            "value": 8444326
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 6900149,
+        "year": 2024,
+        "period": "2024",
+        "details": [
+          {
+            "name": "Otros activos (no corriente)",
+            "value": 6900149
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/e72e590e-8504-4cb1-b856-79d9e1bdd637.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "bd38e233-f178-40fa-88cb-756c1ad07de4"
+  },
+  {
+    "statusCode": 200,
+    "status": "error",
+    "request_id": "1ce99320-821e-46c7-936c-dbe936b1a3dc",
+    "error": "No se encontraron tablas para 'CF'; no se puede generar JSON.",
+    "object_key_json_output": "FinancialStatementJson/e72e590e-8504-4cb1-b856-79d9e1bdd637.json",
+    "type": "BS",
+    "periodicity": "anual",
+    "job_id": "bd38e233-f178-40fa-88cb-756c1ad07de4"
+  }
+]

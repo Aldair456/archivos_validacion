@@ -1,0 +1,1151 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "402ba9ff-e8df-4e5c-98fe-459da6f4cdb8",
+    "data": [
+      {
+        "name": "SALES",
+        "value": 6378,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Comisiones Recibidas (neto)",
+            "value": 6378
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "SALES",
+        "value": 1926,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Comisiones Recibidas (neto)",
+            "value": 1926
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "SALES",
+        "value": 6378,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Comisiones Recibidas (neto)",
+            "value": 6378
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "SALES",
+        "value": 1926,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Comisiones Recibidas (neto)",
+            "value": 1926
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -6442,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Compras de suministros",
+            "value": 8
+          },
+          {
+            "name": "Cargas de personal",
+            "value": 2737
+          },
+          {
+            "name": "Participaciones y dietas al directorio",
+            "value": 247
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 2340
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 34
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 561
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 515
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -5528,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Compras de suministros",
+            "value": 4
+          },
+          {
+            "name": "Cargas de personal",
+            "value": 2460
+          },
+          {
+            "name": "Participaciones y dietas al directorio",
+            "value": 227
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 1834
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 17
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 524
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 462
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -6442,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Compras de suministros",
+            "value": 8
+          },
+          {
+            "name": "Cargas de personal",
+            "value": 2737
+          },
+          {
+            "name": "Participaciones y dietas al directorio",
+            "value": 247
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 2340
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 34
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 561
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 515
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -5528,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Compras de suministros",
+            "value": 4
+          },
+          {
+            "name": "Cargas de personal",
+            "value": 2460
+          },
+          {
+            "name": "Participaciones y dietas al directorio",
+            "value": 227
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 1834
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 17
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 524
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 462
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "SALES_EXPENSES",
+        "value": -3004,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Compras de Suministros",
+            "value": 29
+          },
+          {
+            "name": "Cargas de Personal",
+            "value": 795
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 1039
+          },
+          {
+            "name": "Publicidad, publicaciones y relaciones públicas",
+            "value": 1061
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 1
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 29
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 50
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 4,
+        "display_name": "Gastos de ventas"
+      },
+      {
+        "name": "SALES_EXPENSES",
+        "value": -1261,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Compras de Suministros",
+            "value": 28
+          },
+          {
+            "name": "Cargas de Personal",
+            "value": 339
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 492
+          },
+          {
+            "name": "Publicidad, publicaciones y relaciones públicas",
+            "value": 378
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 1
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 4
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 19
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 4,
+        "display_name": "Gastos de ventas"
+      },
+      {
+        "name": "SALES_EXPENSES",
+        "value": -3004,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Compras de Suministros",
+            "value": 29
+          },
+          {
+            "name": "Cargas de Personal",
+            "value": 795
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 1039
+          },
+          {
+            "name": "Publicidad, publicaciones y relaciones públicas",
+            "value": 1061
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 1
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 29
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 50
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 4,
+        "display_name": "Gastos de ventas"
+      },
+      {
+        "name": "SALES_EXPENSES",
+        "value": -1261,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Compras de Suministros",
+            "value": 28
+          },
+          {
+            "name": "Cargas de Personal",
+            "value": 339
+          },
+          {
+            "name": "Servicios prestados por terceros",
+            "value": 492
+          },
+          {
+            "name": "Publicidad, publicaciones y relaciones públicas",
+            "value": 378
+          },
+          {
+            "name": "Tributos y aportaciones",
+            "value": 1
+          },
+          {
+            "name": "Cargas diversas de gestión",
+            "value": 4
+          },
+          {
+            "name": "Provisiones del ejercicio",
+            "value": 19
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 4,
+        "display_name": "Gastos de ventas"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 84,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 84
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 145,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 145
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 84,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 84
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 145,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 145
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -84,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 84
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -67,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 67
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -84,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 84
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -67,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 67
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "TAXES",
+        "value": 576,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Corriente y Diferido",
+            "value": 576
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": 1373,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Corriente y Diferido",
+            "value": 1373
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": 576,
+        "year": 2015,
+        "period": "2015Q1A",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Corriente y Diferido",
+            "value": 576
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": 1373,
+        "year": 2014,
+        "period": "2014Q1A",
+        "details": [
+          {
+            "name": "Impuesto a la Renta Corriente y Diferido",
+            "value": 1373
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/9b49b43c-e93b-4416-ab2f-5409d7e62f63.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "8bb29a3c-68e9-4485-866f-a1474f0f85a8"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "5b0143d1-3ef5-40b1-a8bf-2af9588bd6ba",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 14143,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Efectivo y Equivalentes de efectivo",
+            "value": 14143
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 308,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 308
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 841,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Gastos Contratados por Anticipado",
+            "value": 841
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 220,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Impuesto Corriente",
+            "value": 220
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 5772,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Encaje legal",
+            "value": 5772
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 2022,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Inmuebles, Muebles y Equipo (neto)",
+            "value": 2022
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 4982,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Activos Intangibles (neto)",
+            "value": 4982
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 11151,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Activo por Impuesto a la Renta Diferido",
+            "value": 11151
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 2077,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales",
+            "value": 2077
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 6320,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar",
+            "value": 6320
+          }
+        ]
+      },
+      {
+        "name": "SALARIES_PAYABLES",
+        "value": 343,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Beneficios sociales a los trabajadores",
+            "value": 343
+          }
+        ]
+      },
+      {
+        "name": "NON_CURRENT_EXPENSE_PROVISIONS",
+        "value": 40,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Otras Provisiones",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 64826,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 64826
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -31987,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -31987
+          }
+        ]
+      },
+      {
+        "name": "PERIOD_RESULTS",
+        "value": -2492,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Resultado Neto del ejercicio",
+            "value": -2492
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 312,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": 312
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 4565,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Efectivo y Equivalentes de efectivo",
+            "value": 4565
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 225,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (neto)",
+            "value": 225
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 1139,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Gastos Contratados por Anticipado",
+            "value": 1139
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_CURRENT_ASSET",
+        "value": 151,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Impuesto Corriente",
+            "value": 151
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+        "value": 4286,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Encaje legal",
+            "value": 4286
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 1846,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Inmuebles, Muebles y Equipo (neto)",
+            "value": 1846
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 5364,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Activos Intangibles (neto)",
+            "value": 5364
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 10618,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Activo por Impuesto a la Renta Diferido",
+            "value": 10618
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 1749,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales",
+            "value": 1749
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 5283,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar",
+            "value": 5283
+          }
+        ]
+      },
+      {
+        "name": "SALARIES_PAYABLES",
+        "value": 137,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Beneficios sociales a los trabajadores",
+            "value": 137
+          }
+        ]
+      },
+      {
+        "name": "NON_CURRENT_EXPENSE_PROVISIONS",
+        "value": 16,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Otras Provisiones",
+            "value": 16
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 52826,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Capital",
+            "value": 52826
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -31987,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -31987
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": 170,
+        "year": 2014,
+        "period": "2014Q4",
+        "details": [
+          {
+            "name": "Ajustes al Patrimonio",
+            "value": 170
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/9b49b43c-e93b-4416-ab2f-5409d7e62f63.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "8bb29a3c-68e9-4485-866f-a1474f0f85a8"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "4594f517-0954-471c-9da0-ad170069097e",
+    "data": [
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -763,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Cobranza de comisiones",
+            "value": 6402
+          },
+          {
+            "name": "Otros Cobros de Efectivo Relativos a la Actividad",
+            "value": 813
+          },
+          {
+            "name": "Proveedores",
+            "value": -4353
+          },
+          {
+            "name": "Remuneraciones y Beneficios Sociales",
+            "value": -2915
+          },
+          {
+            "name": "Tributos y Aportaciones",
+            "value": -380
+          },
+          {
+            "name": "Otros Pagos de Efectivo Relativos a la Actividad",
+            "value": -330
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -1659,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Ampliación de Valores de Encaje",
+            "value": -1300
+          },
+          {
+            "name": "Compra de Intangibles e Inmuebles, Maquinaria y Equipo",
+            "value": -359
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 12000,
+        "year": 2015,
+        "period": "2015Q1",
+        "details": [
+          {
+            "name": "Emisión de Acciones o Nuevos Aportes",
+            "value": 12000
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -3792,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Cobranza de comisiones",
+            "value": 1922
+          },
+          {
+            "name": "Otros Cobros de Efectivo Relativos a la Actividad",
+            "value": 68
+          },
+          {
+            "name": "Proveedores",
+            "value": -2918
+          },
+          {
+            "name": "Remuneraciones y Beneficios Sociales",
+            "value": -2514
+          },
+          {
+            "name": "Tributos y Aportaciones",
+            "value": -123
+          },
+          {
+            "name": "Otros Pagos de Efectivo Relativos a la Actividad",
+            "value": -227
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -848,
+        "year": 2014,
+        "period": "2014Q1",
+        "details": [
+          {
+            "name": "Ampliación de Valores de Encaje",
+            "value": -793
+          },
+          {
+            "name": "Compra de Intangibles e Inmuebles, Maquinaria y Equipo",
+            "value": -55
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/9b49b43c-e93b-4416-ab2f-5409d7e62f63.json",
+    "type": "PB",
+    "periodicity": "trimestral",
+    "job_id": "8bb29a3c-68e9-4485-866f-a1474f0f85a8"
+  }
+]

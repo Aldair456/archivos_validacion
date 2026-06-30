@@ -1,0 +1,1421 @@
+[
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "39129a27-c04c-4afb-8298-40d1e42d2028",
+    "data": [
+      {
+        "name": "SALES",
+        "value": 45149,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Ingresos de Actividades Ordinarias",
+            "value": 45149
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "SALES",
+        "value": 45111,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Ingresos de Actividades Ordinarias",
+            "value": 45111
+          }
+        ],
+        "tags": [
+          "gm"
+        ],
+        "value_type": "positive",
+        "priority": 1,
+        "display_name": "Ventas"
+      },
+      {
+        "name": "COGS",
+        "value": -32925,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Costo de Ventas",
+            "value": 32925
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "COGS",
+        "value": -43719,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Costo de Ventas",
+            "value": 43719
+          }
+        ],
+        "tags": [
+          "gm",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 2,
+        "display_name": "Costo de Ventas"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -33714,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Gastos de Administración",
+            "value": 33714
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "ADMIN_EXPENSES",
+        "value": -43960,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Gastos de Administración",
+            "value": 43960
+          }
+        ],
+        "tags": [
+          "om",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 5,
+        "display_name": "Gastos administrativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 11191,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Ingresos Operativos",
+            "value": 11191
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_INCOME",
+        "value": 7410,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Ingresos Operativos",
+            "value": 7410
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros ingresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -343917,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Gastos Operativos",
+            "value": -343917
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "OTHER_OPERATING_EXPENSES",
+        "value": -46298,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Gastos Operativos",
+            "value": -46298
+          }
+        ],
+        "tags": [
+          "om"
+        ],
+        "value_type": "positive",
+        "priority": 8,
+        "display_name": "Otros egresos operativos"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 43549,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 43549
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "FINANCIAL_INCOME",
+        "value": 21607,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Ingresos Financieros",
+            "value": 21607
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 12,
+        "display_name": "Ingresos financieros"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -162313,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 162313
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "INTEREST_EXPENSES",
+        "value": -107607,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Gastos Financieros",
+            "value": 107607
+          }
+        ],
+        "tags": [
+          "ebt",
+          "expense"
+        ],
+        "value_type": "positive",
+        "priority": 9,
+        "display_name": "Gastos financieros por intereses"
+      },
+      {
+        "name": "PARTICIPATION_IN_RELATED_COMPANIES",
+        "value": -7191,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Ingresos (Gastos) de las Subsidiarias, Asociadas y Negocios Conjuntos",
+            "value": -7191
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 13,
+        "display_name": "Participación en relacionadas"
+      },
+      {
+        "name": "PARTICIPATION_IN_RELATED_COMPANIES",
+        "value": 19199,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Ingresos (Gastos) de las Subsidiarias, Asociadas y Negocios Conjuntos",
+            "value": 19199
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 13,
+        "display_name": "Participación en relacionadas"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 19967,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Diferencias de Cambio Neto",
+            "value": 19967
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "EXCHANGE_RATE_INCOME",
+        "value": 7024,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Diferencias de Cambio Neto",
+            "value": 7024
+          }
+        ],
+        "tags": [
+          "ebt"
+        ],
+        "value_type": "positive",
+        "priority": 14,
+        "display_name": "Ingresos por tipo de cambio"
+      },
+      {
+        "name": "TAXES",
+        "value": 10167,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Ingreso (Gasto) por Impuesto",
+            "value": 10167
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      },
+      {
+        "name": "TAXES",
+        "value": 26535,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Ingreso (Gasto) por Impuesto",
+            "value": 26535
+          }
+        ],
+        "tags": [
+          "nm"
+        ],
+        "value_type": "positive",
+        "priority": 15,
+        "display_name": "Impuestos"
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/b82930d4-47bc-462d-92d2-656d548dad5a.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2a8404e4-c537-4ce2-8052-266d3f96128c"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "c8560223-40c6-441b-b418-85c61a88a5b0",
+    "data": [
+      {
+        "name": "CASH",
+        "value": 184899,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Efectivo y Equivalentes al Efectivo",
+            "value": 184899
+          }
+        ]
+      },
+      {
+        "name": "CASH",
+        "value": 122092,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Efectivo y Equivalentes al Efectivo",
+            "value": 122092
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 946,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales (corriente)",
+            "value": 946
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE",
+        "value": 1007,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales (corriente)",
+            "value": 1007
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 32877,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar a Entidades Relacionadas (corriente)",
+            "value": 32877
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES",
+        "value": 31221,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar a Entidades Relacionadas (corriente)",
+            "value": 31221
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 4894,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (corriente)",
+            "value": 4894
+          }
+        ]
+      },
+      {
+        "name": "OTHER_RECEIVABLES",
+        "value": 9984,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (corriente)",
+            "value": 9984
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 719,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Anticipos (corriente)",
+            "value": 719
+          }
+        ]
+      },
+      {
+        "name": "PRE_PAID_EXPENSES",
+        "value": 1047,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Anticipos (corriente)",
+            "value": 1047
+          }
+        ]
+      },
+      {
+        "name": "INVENTORY",
+        "value": 13,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Inventarios (corriente)",
+            "value": 13
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 8530,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Activos no Financieros (corriente)",
+            "value": 8530
+          }
+        ]
+      },
+      {
+        "name": "OTHER_CURRENT_ASSETS",
+        "value": 5770,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Activos no Financieros (corriente)",
+            "value": 5770
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 632,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Activos Financieros (no corriente)",
+            "value": 632
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 684,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Activos Financieros (no corriente)",
+            "value": 684
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 1428401,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Inversiones en Subsidiarias, Negocios Conjuntos y Asociadas",
+            "value": 1428401
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENTS_IN_SUBSIDIARIES",
+        "value": 1365396,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Inversiones en Subsidiarias, Negocios Conjuntos y Asociadas",
+            "value": 1365396
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_LT",
+        "value": 1392,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar Comerciales (no corriente)",
+            "value": 1392
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES_NON_CURRENT",
+        "value": 490211,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar a Entidades Relacionadas (no corriente)",
+            "value": 490211
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_RECEIVABLE_RELATED_PARTIES_NON_CURRENT",
+        "value": 398727,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Cobrar a Entidades Relacionadas (no corriente)",
+            "value": 398727
+          }
+        ]
+      },
+      {
+        "name": "OTHER_ACCOUNTS_RECEIVABLE_LT",
+        "value": 36340,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (no corriente)",
+            "value": 36340
+          }
+        ]
+      },
+      {
+        "name": "OTHER_ACCOUNTS_RECEIVABLE_LT",
+        "value": 43959,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Cuentas por Cobrar (no corriente)",
+            "value": 43959
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENT_PROPERTY",
+        "value": 40594,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Propiedades de Inversión",
+            "value": 40594
+          }
+        ]
+      },
+      {
+        "name": "INVESTMENT_PROPERTY",
+        "value": 42558,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Propiedades de Inversión",
+            "value": 42558
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 1355,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Propiedades, Planta y Equipo",
+            "value": 1355
+          }
+        ]
+      },
+      {
+        "name": "PROPERTY_PLANT_EQUIPMENT",
+        "value": 1719,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Propiedades, Planta y Equipo",
+            "value": 1719
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 2041,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Activos Intangibles Distintos de la Plusvalía",
+            "value": 2041
+          }
+        ]
+      },
+      {
+        "name": "INTANGIBLES",
+        "value": 3087,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Activos Intangibles Distintos de la Plusvalía",
+            "value": 3087
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 59516,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Activos por Impuestos Diferidos",
+            "value": 59516
+          }
+        ]
+      },
+      {
+        "name": "DEFERRED_TAX_ASSET",
+        "value": 47494,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Activos por Impuestos Diferidos",
+            "value": 47494
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 33437,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Activos no Financieros (no corriente)",
+            "value": 33437
+          }
+        ]
+      },
+      {
+        "name": "OTHER_NON_CURRENT_ASSETS",
+        "value": 39233,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Activos no Financieros (no corriente)",
+            "value": 39233
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 469342,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Pasivos Financieros (corriente)",
+            "value": 469342
+          }
+        ]
+      },
+      {
+        "name": "SHORT_TERM_LOANS",
+        "value": 11902,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Pasivos Financieros (corriente)",
+            "value": 11902
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 15025,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales (corriente)",
+            "value": 15025
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE",
+        "value": 35448,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Pagar Comerciales (corriente)",
+            "value": 35448
+          }
+        ]
+      },
+      {
+        "name": "PAYABLES_RELATED_PARTIES",
+        "value": 1285,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Pagar a Entidades Relacionadas (corriente)",
+            "value": 1285
+          }
+        ]
+      },
+      {
+        "name": "PAYABLES_RELATED_PARTIES",
+        "value": 5862,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Pagar a Entidades Relacionadas (corriente)",
+            "value": 5862
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 25497,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar (corriente)",
+            "value": 25497
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES",
+        "value": 32165,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar (corriente)",
+            "value": 32165
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 27644,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Provisiones (corriente)",
+            "value": 27644
+          }
+        ]
+      },
+      {
+        "name": "EXPENSE_PROVISIONS",
+        "value": 54028,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Provisiones (corriente)",
+            "value": 54028
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 36031,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otros Pasivos Financieros (no corriente)",
+            "value": 36031
+          }
+        ]
+      },
+      {
+        "name": "LONG_TERM_LOANS",
+        "value": 395313,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otros Pasivos Financieros (no corriente)",
+            "value": 395313
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE_LT",
+        "value": 194985,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Cuentas por Pagar a Entidades Relacionadas (no corriente)",
+            "value": 194985
+          }
+        ]
+      },
+      {
+        "name": "ACCOUNTS_PAYABLE_LT",
+        "value": 191427,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Cuentas por Pagar a Entidades Relacionadas (no corriente)",
+            "value": 191427
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES_LT",
+        "value": 2930,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar (no corriente)",
+            "value": 2930
+          }
+        ]
+      },
+      {
+        "name": "OTHER_PAYABLES_LT",
+        "value": 2861,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Cuentas por Pagar (no corriente)",
+            "value": 2861
+          }
+        ]
+      },
+      {
+        "name": "NON_CURRENT_EXPENSE_PROVISIONS",
+        "value": 491463,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Provisiones (no corriente)",
+            "value": 491463
+          }
+        ]
+      },
+      {
+        "name": "NON_CURRENT_EXPENSE_PROVISIONS",
+        "value": 181629,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Provisiones (no corriente)",
+            "value": 181629
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 1196980,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Capital Emitido",
+            "value": 1196980
+          }
+        ]
+      },
+      {
+        "name": "CAPITAL",
+        "value": 871918,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Capital Emitido",
+            "value": 871918
+          }
+        ]
+      },
+      {
+        "name": "ADDITIONAL_CAPITAL",
+        "value": 1142092,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Primas de Emisión",
+            "value": 1142092
+          }
+        ]
+      },
+      {
+        "name": "ADDITIONAL_CAPITAL",
+        "value": 1131574,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Primas de Emisión",
+            "value": 1131574
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 161985,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Reservas de Capital",
+            "value": 161985
+          }
+        ]
+      },
+      {
+        "name": "RESERVES",
+        "value": 161985,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Reservas de Capital",
+            "value": 161985
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -1341282,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -1341282
+          }
+        ]
+      },
+      {
+        "name": "ACCUMULATED_RESULTS",
+        "value": -893488,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Resultados Acumulados",
+            "value": -893488
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": -97193,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Otras Reservas de Patrimonio",
+            "value": -97193
+          }
+        ]
+      },
+      {
+        "name": "OTHER_EQUITY_ACCOUNTS",
+        "value": -68633,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Otras Reservas de Patrimonio",
+            "value": -68633
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/b82930d4-47bc-462d-92d2-656d548dad5a.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2a8404e4-c537-4ce2-8052-266d3f96128c"
+  },
+  {
+    "statusCode": 200,
+    "status": "ok",
+    "request_id": "de905bf4-d8b5-44bc-9ef5-ee04715de146",
+    "data": [
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -34171,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Ganancia (Pérdida) Neta del Ejercicio",
+            "value": -450037
+          },
+          {
+            "name": "Gasto por Intereses",
+            "value": 80072
+          },
+          {
+            "name": "Ingreso por Intereses",
+            "value": -63516
+          },
+          {
+            "name": "Pérdida (Ganancia) por Diferencias de Cambio no Realizadas",
+            "value": 1504
+          },
+          {
+            "name": "Gasto por Impuestos a las Ganancias",
+            "value": -10167
+          },
+          {
+            "name": "Ganancias (Pérdidas) no Distribuidas de Subsidiarias, Asociadas y Negocios Conjuntos",
+            "value": 7191
+          },
+          {
+            "name": "Pérdidas por Deterioro de Valor Reconocidas en el Resultado del Ejercicio",
+            "value": 11443
+          },
+          {
+            "name": "Depreciación, Amortización y Agotamiento",
+            "value": 11704
+          },
+          {
+            "name": "Pérdidas (Ganancias) por Valor Razonable",
+            "value": 82241
+          },
+          {
+            "name": "Pérdida (Ganancia) en Venta de Propiedades, Planta y Equipo",
+            "value": -165
+          },
+          {
+            "name": "Otros Ajustes por Partidas Distintas al Efectivo",
+            "value": 318493
+          },
+          {
+            "name": "(Aumento) Disminución de Cuentas por Cobrar Comerciales",
+            "value": -1331
+          },
+          {
+            "name": "(Aumento) Disminución de Otras Cuentas por Cobrar",
+            "value": 92610
+          },
+          {
+            "name": "(Aumento) Disminución en Inventarios",
+            "value": 13
+          },
+          {
+            "name": "(Aumento) Disminución de Otros Activos no Financieros",
+            "value": -2708
+          },
+          {
+            "name": "Aumento (Disminución) de Cuentas por Pagar Comerciales",
+            "value": -15601
+          },
+          {
+            "name": "Aumento (Disminución) de Otras Cuentas por Pagar",
+            "value": -29779
+          },
+          {
+            "name": "Aumento (Disminución) de Otras Provisiones",
+            "value": -30109
+          },
+          {
+            "name": "Flujos de Efectivo procedente de Operaciones",
+            "value": 1858
+          },
+          {
+            "name": "Intereses Pagados (no Incluidos en la Actividad de Financiación)",
+            "value": -31825
+          },
+          {
+            "name": "Impuestos a las Ganancias Pagados",
+            "value": -4204
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_OPERATIONS",
+        "value": -81974,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Ganancia (Pérdida) Neta del Ejercicio",
+            "value": -114698
+          },
+          {
+            "name": "Gasto por Intereses",
+            "value": 49995
+          },
+          {
+            "name": "Ingreso por Intereses",
+            "value": -28631
+          },
+          {
+            "name": "Pérdida (Ganancia) por Diferencias de Cambio no Realizadas",
+            "value": 1555
+          },
+          {
+            "name": "Gasto por Impuestos a las Ganancias",
+            "value": -26535
+          },
+          {
+            "name": "Ganancias (Pérdidas) no Distribuidas de Subsidiarias, Asociadas y Negocios Conjuntos",
+            "value": -19199
+          },
+          {
+            "name": "Pérdidas por Deterioro de Valor Reconocidas en el Resultado del Ejercicio",
+            "value": 18347
+          },
+          {
+            "name": "Depreciación, Amortización y Agotamiento",
+            "value": 13228
+          },
+          {
+            "name": "Pérdidas (Ganancias) por Valor Razonable",
+            "value": 57612
+          },
+          {
+            "name": "Pérdida (Ganancia) en Venta de Propiedades, Planta y Equipo",
+            "value": -164
+          },
+          {
+            "name": "Otros Ajustes por Partidas Distintas al Efectivo",
+            "value": 20346
+          },
+          {
+            "name": "(Aumento) Disminución de Cuentas por Cobrar Comerciales",
+            "value": -442
+          },
+          {
+            "name": "(Aumento) Disminución de Otras Cuentas por Cobrar",
+            "value": -20203
+          },
+          {
+            "name": "(Aumento) Disminución en Inventarios",
+            "value": -13
+          },
+          {
+            "name": "(Aumento) Disminución de Otros Activos no Financieros",
+            "value": -2933
+          },
+          {
+            "name": "Aumento (Disminución) de Cuentas por Pagar Comerciales",
+            "value": 2579
+          },
+          {
+            "name": "Aumento (Disminución) de Otras Cuentas por Pagar",
+            "value": 3979
+          },
+          {
+            "name": "Aumento (Disminución) de Otras Provisiones",
+            "value": -24290
+          },
+          {
+            "name": "Flujos de Efectivo procedente de Operaciones",
+            "value": -69467
+          },
+          {
+            "name": "Intereses Pagados (no Incluidos en la Actividad de Financiación)",
+            "value": -9578
+          },
+          {
+            "name": "Impuestos a las Ganancias Pagados",
+            "value": -2929
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -338044,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Reembolsos Recibidos de Préstamos a Entidades Relacionadas",
+            "value": 73900
+          },
+          {
+            "name": "Venta de Propiedades, Planta y Equipo",
+            "value": 237
+          },
+          {
+            "name": "Intereses Recibidos",
+            "value": 11095
+          },
+          {
+            "name": "Dividendos Recibidos",
+            "value": 73778
+          },
+          {
+            "name": "Préstamos Concedidos a Entidades Relacionadas",
+            "value": -496987
+          },
+          {
+            "name": "Compra de Propiedades, Planta y Equipo",
+            "value": -12
+          },
+          {
+            "name": "Compra de Activos Intangibles",
+            "value": -55
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_INVESTMENTS",
+        "value": -83753,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Reembolsos Recibidos de Préstamos a Entidades Relacionadas",
+            "value": 11772
+          },
+          {
+            "name": "Venta de Propiedades, Planta y Equipo",
+            "value": 118
+          },
+          {
+            "name": "Intereses Recibidos",
+            "value": 3319
+          },
+          {
+            "name": "Dividendos Recibidos",
+            "value": 68473
+          },
+          {
+            "name": "Préstamos Concedidos a Entidades Relacionadas",
+            "value": -165570
+          },
+          {
+            "name": "Compra de Subsidiarias, Neto del Efectivo Adquirido",
+            "value": -1784
+          },
+          {
+            "name": "Compra de Propiedades, Planta y Equipo",
+            "value": -81
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 436526,
+        "year": 2022,
+        "period": "2022",
+        "details": [
+          {
+            "name": "Obtención de Préstamos",
+            "value": 436080
+          },
+          {
+            "name": "Préstamos de Entidades Relacionadas (cobros)",
+            "value": 20292
+          },
+          {
+            "name": "Amortización o Pago de Préstamos",
+            "value": -19846
+          }
+        ]
+      },
+      {
+        "name": "CASHFLOW_FROM_FINANCING",
+        "value": 252995,
+        "year": 2021,
+        "period": "2021",
+        "details": [
+          {
+            "name": "Obtención de Préstamos",
+            "value": 362805
+          },
+          {
+            "name": "Préstamos de Entidades Relacionadas (cobros)",
+            "value": 189471
+          },
+          {
+            "name": "Amortización o Pago de Préstamos",
+            "value": -105998
+          },
+          {
+            "name": "Préstamos de Entidades Relacionadas (pagos)",
+            "value": -193283
+          }
+        ]
+      }
+    ],
+    "object_key_json_output": "FinancialStatementJson/b82930d4-47bc-462d-92d2-656d548dad5a.json",
+    "type": "PB",
+    "periodicity": "anual",
+    "job_id": "2a8404e4-c537-4ce2-8052-266d3f96128c"
+  }
+]
