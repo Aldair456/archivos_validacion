@@ -1,0 +1,189 @@
+[
+  {
+    "name": "CASH",
+    "value": 395069.43,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Efectivo y Equivalentes de Efectivo", "value": 395069.43}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "CASH",
+    "value": 944509.03,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Efectivo y Equivalentes de Efectivo", "value": 944509.03}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "CASH",
+    "value": 272312.84,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Efectivo y Equivalentes de Efectivo", "value": 272312.84}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 5495699.30,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Cuentas por Cobrar Comerciales - Terceros", "value": 3771130.01},
+      {"name": "Cuentas por Cobrar Comerciales - Relacionadas", "value": 1724569.29}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 3977235.22,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Cuentas por Cobrar Comerciales - Terceros", "value": 2525564.29},
+      {"name": "Cuentas por Cobrar Comerciales - Relacionadas", "value": 1451670.93}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 6458808.92,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Cuentas por Cobrar Comerciales - Terceros", "value": 4817459.53},
+      {"name": "Cuentas por Cobrar Comerciales - Relacionadas", "value": 1641349.39}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 5915194.13,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Cuentas por Cobrar al Personal, Accionistas y Direct.", "value": 307994.32},
+      {"name": "Cuentas por Cobrar Diversas - Terceros (corriente)", "value": 2117373.65},
+      {"name": "Cuentas por Cobrar Diversas - Relacionadas", "value": 18816.00},
+      {"name": "Crédito I.G.V. e Impuesto a la Renta", "value": 1584585.16},
+      {"name": "Cuentas por Cobrar Diversas - Terceros (no corriente)", "value": 1886425.00}
+    ],
+    "display_name": "Otras cuentas por cobrar"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 3433122.10,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Cuentas por Cobrar al Personal, Accionistas y Direct.", "value": 273919.43},
+      {"name": "Cuentas por Cobrar Diversas - Terceros (corriente)", "value": 2402484.93},
+      {"name": "Cuentas por Cobrar Diversas - Relacionadas", "value": 21044.80},
+      {"name": "Crédito I.G.V. e Impuesto a la Renta", "value": 735672.94},
+      {"name": "Cuentas por Cobrar Diversas - Terceros (no corriente)", "value": 0.00}
+    ],
+    "display_name": "Otras cuentas por cobrar"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 3187180.06,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Cuentas por Cobrar al Personal, Accionistas y Direct.", "value": 234477.08},
+      {"name": "Cuentas por Cobrar Diversas - Terceros (corriente)", "value": 2081730.76},
+      {"name": "Cuentas por Cobrar Diversas - Relacionadas", "value": 57214.23},
+      {"name": "Crédito I.G.V. e Impuesto a la Renta", "value": 813757.99}
+    ],
+    "display_name": "Otras cuentas por cobrar"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 12428165.84,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Mercaderías", "value": 2095.50},
+      {"name": "Productos Terminados", "value": 3774798.95},
+      {"name": "Subproductos, Desechos y Desperdicios", "value": 299797.23},
+      {"name": "Productos en Proceso", "value": 4468083.83},
+      {"name": "Materias Primas, Auxiliares y Suministros", "value": 3782438.11},
+      {"name": "Servicios y Otros Contratados por Anticipado", "value": 100952.22}
+    ],
+    "display_name": "Inventarios y otros activos corrientes"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 7055089.20,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Mercaderías", "value": 1534.48},
+      {"name": "Productos Terminados", "value": 1677918.10},
+      {"name": "Subproductos, Desechos y Desperdicios", "value": 315508.84},
+      {"name": "Productos en Proceso", "value": 1473260.71},
+      {"name": "Materias Primas, Auxiliares y Suministros", "value": 3523412.28},
+      {"name": "Servicios y Otros Contratados por Anticipado", "value": 63454.79}
+    ],
+    "display_name": "Inventarios y otros activos corrientes"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 7144221.17,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Mercaderías", "value": 36.47},
+      {"name": "Productos Terminados", "value": 1814721.19},
+      {"name": "Subproductos, Desechos y Desperdicios", "value": 313344.76},
+      {"name": "Productos en Proceso", "value": 1301421.41},
+      {"name": "Materias Primas, Auxiliares y Suministros", "value": 3570521.13},
+      {"name": "Servicios y Otros Contratados por Anticipado", "value": 144176.21}
+    ],
+    "display_name": "Inventarios y otros activos corrientes"
+  },
+  {
+    "name": "INVESTMENTS_IN_SUBSIDIARIES",
+    "value": 3150904.59,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Inversiones en Relacionadas", "value": 3150904.59}
+    ],
+    "display_name": "Inversiones en relacionadas"
+  },
+  {
+    "name": "INVESTMENTS_IN_SUBSIDIARIES",
+    "value": 3150904.59,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Inversiones en Relacionadas", "value": 3150904.59}
+    ],
+    "display_name": "Inversiones en relacionadas"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 20727344.71,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Inmuebles, Maquinaria y Equipo", "value": 33855882.45},
+      {"name": "menos: Depreciación Acumulada", "value": -13128537.74}
+    ],
+    "display_name": "Inmuebles, maquinaria y equipo, neto"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 19778902.92,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Inmuebles, Maquinaria y Equipo", "value": 31944694.70},
+      {"name": "menos: Depreciación Acumulada", "value": -12165791.78}
