@@ -1,0 +1,337 @@
+[
+  {
+    "name": "CASH",
+    "value": 5674891,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Efectivo y equivalente de efectivo", "value": 5674891}
+    ],
+    "display_name": "Efectivo y equivalente de efectivo"
+  },
+  {
+    "name": "CASH",
+    "value": 4645187,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Efectivo y equivalente de efectivo", "value": 4645187}
+    ],
+    "display_name": "Efectivo y equivalente de efectivo"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 836937,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Cuentas por cobrar", "value": 836937}
+    ],
+    "display_name": "Cuentas por cobrar"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 515378,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Cuentas por cobrar", "value": 515378}
+    ],
+    "display_name": "Cuentas por cobrar"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 354655,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Edificaciones, mobiliario y equipos, neto", "value": 354655}
+    ],
+    "display_name": "Edificaciones, mobiliario y equipos, neto"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 169751,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Edificaciones, mobiliario y equipos, neto", "value": 169751}
+    ],
+    "display_name": "Edificaciones, mobiliario y equipos, neto"
+  },
+  {
+    "name": "INTANGIBLE_ASSETS",
+    "value": 0,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Intangibles, neto", "value": 0}
+    ],
+    "display_name": "Intangibles, neto"
+  },
+  {
+    "name": "INTANGIBLE_ASSETS",
+    "value": 252,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Intangibles, neto", "value": 252}
+    ],
+    "display_name": "Intangibles, neto"
+  },
+  {
+    "name": "ACCOUNTS_PAYABLE",
+    "value": 703533,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Cuentas por pagar", "value": 703533}
+    ],
+    "display_name": "Cuentas por pagar"
+  },
+  {
+    "name": "ACCOUNTS_PAYABLE",
+    "value": 308853,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Cuentas por pagar", "value": 308853}
+    ],
+    "display_name": "Cuentas por pagar"
+  },
+  {
+    "name": "CAPITAL",
+    "value": 20632,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Fondo institucional", "value": 20632}
+    ],
+    "display_name": "Fondo institucional"
+  },
+  {
+    "name": "CAPITAL",
+    "value": 20632,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Fondo institucional", "value": 20632}
+    ],
+    "display_name": "Fondo institucional"
+  },
+  {
+    "name": "ACCUMULATED_RESULTS",
+    "value": 626661,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Resultados acumulados", "value": 626661}
+    ],
+    "display_name": "Resultados acumulados"
+  },
+  {
+    "name": "ACCUMULATED_RESULTS",
+    "value": 237095,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Resultados acumulados", "value": 237095}
+    ],
+    "display_name": "Resultados acumulados"
+  },
+  {
+    "name": "FINANCIAL_INCOME",
+    "value": 33767,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Diferencia de cambio, neta", "value": 33767}
+    ],
+    "display_name": "Ingresos financieros"
+  },
+  {
+    "name": "OTHER_OPERATING_INCOME",
+    "value": 11834291,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Subvenciones", "value": 11588916},
+      {"name": "Otros ingresos operacionales", "value": 245375}
+    ],
+    "display_name": "Otros ingresos operacionales"
+  },
+  {
+    "name": "OTHER_OPERATING_INCOME",
+    "value": 8597167,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Subvenciones", "value": 8494843},
+      {"name": "Otros ingresos operacionales", "value": 102324}
+    ],
+    "display_name": "Otros ingresos operacionales"
+  },
+  {
+    "name": "ADMIN_EXPENSES",
+    "value": -4966315,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Gastos del personal", "value": -4966315}
+    ],
+    "display_name": "Gastos administrativos"
+  },
+  {
+    "name": "ADMIN_EXPENSES",
+    "value": -2814269,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Gastos del personal", "value": -2814269}
+    ],
+    "display_name": "Gastos administrativos"
+  },
+  {
+    "name": "OPERATING_EXPENSES",
+    "value": -4676761,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Servicios prestados por terceros", "value": -4676761}
+    ],
+    "display_name": "Gastos operativos"
+  },
+  {
+    "name": "OPERATING_EXPENSES",
+    "value": -4238004,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Servicios prestados por terceros", "value": -4238004}
+    ],
+    "display_name": "Gastos operativos"
+  },
+  {
+    "name": "TAXES",
+    "value": -61698,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Tributos", "value": -61698}
+    ],
+    "display_name": "Impuestos"
+  },
+  {
+    "name": "TAXES",
+    "value": -9411,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Tributos", "value": -9411}
+    ],
+    "display_name": "Impuestos"
+  },
+  {
+    "name": "OTHER_OPERATING_EXPENSES",
+    "value": -1877557,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Cargas diversas de gestión", "value": -1877557}
+    ],
+    "display_name": "Otros gastos operativos"
+  },
+  {
+    "name": "OTHER_OPERATING_EXPENSES",
+    "value": -1203206,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Cargas diversas de gestión", "value": -1203206}
+    ],
+    "display_name": "Otros gastos operativos"
+  },
+  {
+    "name": "INTEREST_EXPENSES",
+    "value": -47,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Gastos por medición financiera", "value": -47}
+    ],
+    "display_name": "Gastos financieros"
+  },
+  {
+    "name": "OTHER_EXPENSES",
+    "value": -69157,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Provisiones del ejercicio", "value": -69157}
+    ],
+    "display_name": "Otros gastos"
+  },
+  {
+    "name": "OTHER_EXPENSES",
+    "value": -56399,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Diferencia de cambio, neta", "value": -10723},
+      {"name": "Provisiones del ejercicio", "value": -45676}
+    ],
+    "display_name": "Otros gastos"
+  },
+  {
+    "name": "CASHFLOW_FROM_OPERATIONS",
+    "value": 1283514,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Superávit del año", "value": 216523},
+      {"name": "Depreciación y amortización del año", "value": 69158},
+      {"name": "Otros", "value": 173043},
+      {"name": "Cuentas por cobrar", "value": -321559},
+      {"name": "Fondos por utilizar de proyectos", "value": 616269},
+      {"name": "Cuentas por pagar", "value": 394680},
+      {"name": "Otros fondos institucionales", "value": 135400}
+    ],
+    "display_name": "Flujo de efectivo de operaciones"
+  },
+  {
+    "name": "CASHFLOW_FROM_OPERATIONS",
+    "value": 113719,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Superávit del año", "value": 275878},
+      {"name": "Depreciación y amortización del año", "value": 45676},
+      {"name": "Otros", "value": -82580},
+      {"name": "Cuentas por cobrar", "value": -312182},
+      {"name": "Fondos por utilizar de proyectos", "value": -61138},
+      {"name": "Cuentas por pagar", "value": -82009},
+      {"name": "Otros fondos institucionales", "value": 330074}
+    ],
+    "display_name": "Flujo de efectivo de operaciones"
+  },
+  {
+    "name": "CASHFLOW_FROM_INVESTMENTS",
+    "value": -253810,
+    "year": 2020,
+    "period": "2020FY",
+    "details": [
+      {"name": "Compra de edificaciones, mobiliario y equipos", "value": -253810}
+    ],
+    "display_name": "Flujo de efectivo de inversión"
+  },
+  {
+    "name": "CASHFLOW_FROM_INVESTMENTS",
+    "value": -112552,
+    "year": 2019,
+    "period": "2019FY",
+    "details": [
+      {"name": "Compra de edificaciones, mobiliario y equipos", "value": -112552}
+    ],
+    "display_name": "Flujo de efectivo de inversión"
+  }
+]

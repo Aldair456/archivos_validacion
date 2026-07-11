@@ -1,0 +1,165 @@
+[
+  {
+    "name": "CASH",
+    "value": 53070836,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Efectivo y equivalentes de efectivo", "value": 53070836}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "CASH",
+    "value": 29855989,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Efectivo y equivalentes de efectivo", "value": 29855989}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+    "value": 12181810,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Inversiones al costo amortizado", "value": 12181810}
+    ],
+    "display_name": "Inversiones al costo amortizado"
+  },
+  {
+    "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+    "value": 18613886,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Inversiones al costo amortizado", "value": 18613886}
+    ],
+    "display_name": "Inversiones al costo amortizado"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 11919148,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Cuentas por cobrar comerciales", "value": 11919148}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 11131926,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Cuentas por cobrar comerciales", "value": 11131926}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 213765280,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Cuentas por cobrar a compañías relacionadas", "value": 213765280}
+    ],
+    "display_name": "Cuentas por cobrar a compañías relacionadas"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 184195299,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Cuentas por cobrar a compañías relacionadas", "value": 184195299}
+    ],
+    "display_name": "Cuentas por cobrar a compañías relacionadas"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 266097942,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Impuestos por recuperar", "value": 57763385},
+      {"name": "Otras cuentas por cobrar", "value": 1841232},
+      {"name": "Inventarios", "value": 196596648},
+      {"name": "Otros activos", "value": 9814385}
+    ],
+    "display_name": "Otros activos corrientes"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 231670190,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Impuestos por recuperar", "value": 29639326},
+      {"name": "Otras cuentas por cobrar", "value": 1907176},
+      {"name": "Inventarios", "value": 198150291},
+      {"name": "Otros activos", "value": 12281289}
+    ],
+    "display_name": "Otros activos corrientes"
+  },
+  {
+    "name": "INVESTMENTS_IN_SUBSIDIARIES",
+    "value": 330619599,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Inversiones al costo amortizado (no corriente)", "value": 148112},
+      {"name": "Cuenta por cobrar a compañías relacionadas (no corriente)", "value": 221808920},
+      {"name": "Inversiones en subsidiarias y asociadas", "value": 104885380}
+    ],
+    "display_name": "Inversiones y cuentas relacionadas no corrientes"
+  },
+  {
+    "name": "INVESTMENTS_IN_SUBSIDIARIES",
+    "value": 341546699,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Cuenta por cobrar a compañías relacionadas (no corriente)", "value": 230898288},
+      {"name": "Inversiones en subsidiarias y asociadas", "value": 110687211}
+    ],
+    "display_name": "Inversiones y cuentas relacionadas no corrientes"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 250122568,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Propiedades y equipos", "value": 148976974},
+      {"name": "Activos por derecho de uso", "value": 101144590}
+    ],
+    "display_name": "Propiedades, equipos y derecho de uso"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 175367787,
+    "year": 2024,
+    "period": "2024FY",
+    "details": [
+      {"name": "Propiedades y equipos", "value": 130825461},
+      {"name": "Activos por derecho de uso", "value": 44541222}
+    ],
+    "display_name": "Propiedades, equipos y derecho de uso"
+  },
+  {
+    "name": "OTHER_ASSETS",
+    "value": 573621,
+    "year": 2025,
+    "period": "2025FY",
+    "details": [
+      {"name": "Otras cuentas por cobrar (no corriente)", "value": 572742},
+      {"name": "Activos intangibles", "value": 16879},
+      {"name": "Otros activos (no corriente)", "value": 8444326}
+    ],
+    "display_name": "Otros activos no corrientes"
+  }
+]

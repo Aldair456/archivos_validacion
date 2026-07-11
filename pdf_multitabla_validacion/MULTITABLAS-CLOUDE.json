@@ -1,0 +1,190 @@
+[
+  {
+    "name": "CASH",
+    "value": 4403,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Efectivo y equivalente de efectivo", "value": 4403}
+    ],
+    "display_name": "Efectivo y equivalentes de efectivo"
+  },
+  {
+    "name": "INVESTMENTS_IN_MARKETABLE_SECURITIES",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Inversiones financieras", "value": 0}
+    ],
+    "display_name": "Inversiones financieras"
+  },
+  {
+    "name": "ACCOUNTS_RECEIVABLE",
+    "value": 47585,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Ctas. por cobrar comerciales - ter.", "value": 47585},
+      {"name": "Ctas. por cobrar comerciales - relac.", "value": 0}
+    ],
+    "display_name": "Cuentas por cobrar comerciales"
+  },
+  {
+    "name": "OTHER_RECEIVABLES",
+    "value": 13425,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Cuentas por cobrar al personal, acc(socios) y directores", "value": 0},
+      {"name": "Ctas. por cobrar diversas - terceros", "value": 13425},
+      {"name": "Ctas. por cobrar diversas - relacionados", "value": 0}
+    ],
+    "display_name": "Otras cuentas por cobrar"
+  },
+  {
+    "name": "OTHER_CURRENT_ASSETS",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Serv. y otros contratados por anticipado", "value": 0},
+      {"name": "Estimación de ctas. de cobranza dudosa", "value": 0},
+      {"name": "Mercaderías", "value": 0},
+      {"name": "Productos terminados", "value": 0},
+      {"name": "Subproductos, deshechos y desperdicios", "value": 0},
+      {"name": "Productos en proceso", "value": 0},
+      {"name": "Materias primas", "value": 0},
+      {"name": "Materias aux, suministros y repuestos", "value": 0},
+      {"name": "Envases y embalajes", "value": 0},
+      {"name": "Inventarios por recibir", "value": 0},
+      {"name": "Desvalorización de inventarios", "value": 0},
+      {"name": "Activos no ctes. mantenidos para la vta", "value": 0},
+      {"name": "Otros activos corrientes", "value": 0}
+    ],
+    "display_name": "Otros activos corrientes"
+  },
+  {
+    "name": "INVESTMENTS_IN_SUBSIDIARIES",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Inversiones mobiliarias", "value": 0},
+      {"name": "Propiedades de inversión (1)", "value": 0}
+    ],
+    "display_name": "Inversiones en subsidiarias y propiedades de inversión"
+  },
+  {
+    "name": "FIXED_ASSETS",
+    "value": 10602,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Activos por derecho de uso (2)", "value": 0},
+      {"name": "Propiedades, planta y equipo", "value": 13765},
+      {"name": "Depreciación de 1,2 y PPE acumulados", "value": -3163}
+    ],
+    "display_name": "Propiedades, planta y equipo, neto"
+  },
+  {
+    "name": "INTANGIBLE_ASSETS",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Intangibles", "value": 0}
+    ],
+    "display_name": "Intangibles"
+  },
+  {
+    "name": "OTHER_ASSETS",
+    "value": 892,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Activos biológicos", "value": 0},
+      {"name": "Deprec act biológico y amortiz acumulada", "value": 0},
+      {"name": "Desvalorización de activo inmovilizado", "value": 0},
+      {"name": "Activo diferido", "value": 0},
+      {"name": "Otros activos no corrientes", "value": 892}
+    ],
+    "display_name": "Otros activos no corrientes"
+  },
+  {
+    "name": "FINANCIAL_DEBT",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Sobregiros bancarios", "value": 0},
+      {"name": "Obligaciones financieras", "value": 0}
+    ],
+    "display_name": "Deuda financiera"
+  },
+  {
+    "name": "ACCOUNTS_PAYABLE",
+    "value": 70711,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Trib. y aport. sist. pens. y salud por pagar", "value": 24699},
+      {"name": "Remuneraciones y particip. por pagar", "value": 23175},
+      {"name": "Ctas. por pagar comerciales - terceros", "value": 22837},
+      {"name": "Ctas. por pagar comerciales - relac.", "value": 0},
+      {"name": "Ctas por pagar accionist(soc, partic) y direct", "value": 0},
+      {"name": "Ctas. por pagar diversas - terceros", "value": 0},
+      {"name": "Ctas. por pagar diversas - relacionadas", "value": 0},
+      {"name": "Provisiones", "value": 0},
+      {"name": "Pago diferido", "value": 0}
+    ],
+    "display_name": "Cuentas por pagar y otras obligaciones"
+  },
+  {
+    "name": "CAPITAL",
+    "value": 2000,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Capital", "value": 2000},
+      {"name": "Acciones de inversión", "value": 0},
+      {"name": "Capital adicional positivo", "value": 0},
+      {"name": "Capital adicional negativos", "value": 0},
+      {"name": "Resultados no realizados", "value": 0},
+      {"name": "Excedentes de evaluación", "value": 0}
+    ],
+    "display_name": "Capital"
+  },
+  {
+    "name": "RESERVES",
+    "value": 0,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Reservas", "value": 0}
+    ],
+    "display_name": "Reservas"
+  },
+  {
+    "name": "ACCUMULATED_RESULTS",
+    "value": 41582,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Resultados acumulados positivos", "value": 41582},
+      {"name": "Resultados acumulados negativos", "value": 0}
+    ],
+    "display_name": "Resultados acumulados"
+  },
+  {
+    "name": "PERIOD_RESULTS",
+    "value": -37386,
+    "year": 2023,
+    "period": "2023FY",
+    "details": [
+      {"name": "Utilidad del ejercicio", "value": 0},
+      {"name": "Pérdida del ejercicio", "value": -37386}
+    ],
+    "display_name": "Resultado del ejercicio"
+  }
+]

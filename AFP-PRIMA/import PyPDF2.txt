@@ -1,0 +1,8 @@
+import PyPDF2
+
+ruta_pdf = "archivo.pdf"
+
+with open(ruta_pdf, "rb") as f:
+    reader = PyPDF2.PdfReader(f)
+
+    print("¿Está encriptado?", reader.is_encrypted)
